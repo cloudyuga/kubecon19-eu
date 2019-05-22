@@ -2,5 +2,5 @@
 KubeCon EU'19 Videos and Presentations 
 
 
-| Topic        | Presentation          | Video  |
+| Topic        |      Video     |  Presentation |
 | ------------- |:-------------:| -----:|
