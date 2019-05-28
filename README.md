@@ -56,7 +56,7 @@ KubeCon EU'19 Videos and Presentations
 ## CI/CD
 | Topic       |      Video     |  Presentation |
 | ------------- |:-------------:| -----: |
-|Rootless, Reproducible, and Hermetic: Secure Container Build Showdown - Andrew Martin, Control Plane|[Video](https://www.youtube.com/watch?v=IpMPRC-ybJI&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=69&t=0s)|Slides](https://static.sched.com/hosted_files/kccnceu19/d3/ControlPlane%20-%20Rootless%2C%20Reproducible%20%26%20Hermetic_%20Secure%20Container%20Build%20Showdown%20%28KubeCon%20Barcelon%2C%20May%202019%29.pdf)|
+|Rootless, Reproducible, and Hermetic: Secure Container Build Showdown - Andrew Martin, Control Plane|[Video](https://www.youtube.com/watch?v=IpMPRC-ybJI&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=69&t=0s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/d3/ControlPlane%20-%20Rootless%2C%20Reproducible%20%26%20Hermetic_%20Secure%20Container%20Build%20Showdown%20%28KubeCon%20Barcelon%2C%20May%202019%29.pdf)|
 |Panel Discussion: GitOps & Best Practices for Cloud Native CI/CD|[Video](https://www.youtube.com/watch?v=uvbaxC1Dexc&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=30&t=0s)|[Slides]|
 |Streamlining Kubernetes Application CI/CD with Bazel - Gregg Donovan & Chris Love|[Video](https://www.youtube.com/watch?v=DTvXa-iqrfA&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=71&t=0s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/41/Bazel%20Kubecon%202019.pdf)|
 |Modern CI/CD with Tekton and Prow Automated via Jenkins X - James Rawlings, Cloudbees|[Video](https://www.youtube.com/watch?v=4EyTGYB7GvA)|[Slides]|
