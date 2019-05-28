@@ -154,13 +154,11 @@ KubeCon EU'19 Videos and Presentations
 |KEPs: Evolving Kubernetes at the Speed of Trust - Caleb Miles, Google|[Video](https://www.youtube.com/watch?v=9C24CSHHonY&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=46&t=0s)|-|
 |Panel Discussion: From User to Member: Becoming a Kubernetes Contributor|[Video](https://www.youtube.com/watch?v=KRXKULN0QXU&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=47&t=0s)|-|
 |Operating kube-apiserver Without Hiccups - Stefan Schimanski & David Eads, Red Hat|[Video](https://www.youtube.com/watch?v=pED17NXiexw&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=48&t=0s)|-|
-
 |Using eBPF to Bring Kubernetes-Aware Security to the Linux Kernel - Dan Wendlandt, Isovalent|[Video](https://www.youtube.com/watch?v=7PXQB-1U380&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=50&t=0s)|-|
 |Reproducible Development and Deployment with Bazel and Telepresence - Christian Roggia|[Video](https://www.youtube.com/watch?v=tD0FIlxO1AQ&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=51&t=0s)|-|
 |Scale Kubernetes Service Endpoints 100x - Minhan Xia & Wojciech Tyczynski, Google|[Video](https://www.youtube.com/watch?v=Y5JOCCbJ_Fg&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=52&t=0s)|-|
 |Intro: Helm - Michelle Noorali & Matt Fisher, Microsoft|[Video](https://www.youtube.com/watch?v=ltVwo1Wt0V8&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=53&t=0s)|-|
 |Envoy SDS: Fortifying Istio Security - Yonggang Liu & Quanjie Lin, Google|[Video](https://www.youtube.com/watch?v=QlQyqCaTOh0&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=54&t=0s)|-|
-
 |Intro: Kubernetes (PM) SIG - Ihor Dvoretskyi, CNCF & Stephen Augustus, VMware|[Video](https://www.youtube.com/watch?v=L3AyKZ5Ctc0&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=57&t=0s)|-|
 |Intro: Testing SIG - Cole Wagner & Aishwarya Sundar, Google|[Video](https://www.youtube.com/watch?v=_uO5gHVTzF8&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=58&t=0s)|-|
 |Intro: Azure SIG - Stephen Augustus, VMware & Craig Peters, Microsoft|[Video](https://www.youtube.com/watch?v=YxPdC3YYPAw&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=59&t=0s)|-|
@@ -171,12 +169,8 @@ KubeCon EU'19 Videos and Presentations
 |Intro: Kubernetes WG for Multitenancy - Tasha Drew, VMware|[Video](https://www.youtube.com/watch?v=iHvgDyXPsAo&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=64&t=0s)|-|
 |Intro: CNCF Security SIG – Sarah Allen & Jeyappragash Jeyakeerthi, Tetrate.io|[Video](https://www.youtube.com/watch?v=XD89-v3oWPE&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=65&t=0s)|-|
 |Es-operator: Building an Elasticsearch Operator From the Bottom Up - Mikkel Larsen, Zalando SE|[Video](https://www.youtube.com/watch?v=lprE0J0kAq0&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=66&t=0s)|-|
-|Authentication and Security in gRPC Microservices - Jan Tattermusch, Google|[Video](https://www.youtube.com/watch?v=_y-lzjdVEf0&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=67&t=0s)|-|
-
-
+|Authentication and Security in gRPC Microservices - Jan Tattermusch, Google|[Video](https://www.youtube.com/watch?v=_ylzjdVEf0&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=67&t=0s)|-|
 |Serverless is Interesting But FaaS is Not Enough - Jonas Bonér, Lightbend Inc.|[Video](https://www.youtube.com/watch?v=J3PyYmdTsnQ&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=70&t=0s)|-|
-
-
 |Writing kubectl Plugins for Everyone: Develop, Package & Distribute - Ahmet Alp Balkan|[Video](https://www.youtube.com/watch?v=83ITOTsXsHU&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=73&t=0s)|-|
 |Intro: Virtual Kubelet - Ria Bhatia, Microsoft & Anubhav Mishra, HashiCorp|[Video](https://www.youtube.com/watch?v=R8uxxCFp6Dk&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=74&t=0s)|-|
 |Intro: Kubernetes Architecture SIG - Jaice Singer DuMars, Google|[Video](https://www.youtube.com/watch?v=UEWdJb4QsDY&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=75&t=0s)|-|
@@ -193,20 +187,15 @@ KubeCon EU'19 Videos and Presentations
 |Intro: CNCF Serverless WG/CloudEvents - Scott Nichols, Google & Klaus Deissner, SAP|[Video](https://www.youtube.com/watch?v=f2D1NUNxY0M&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=86&t=0s)|-|
 |Intro: CNCF CI - Lucina Stricko & Denver Williams, Vulk Coop & CNCF|[Video](https://www.youtube.com/watch?v=Rew-i30nX34&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=87&t=0s)|-|
 |Tutorial: A Day in the Life of a Cloud Native Developer - Randy Abernethy, RX-M, LLC|[Video](https://www.youtube.com/watch?v=YAM2d7yTrrI&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=88&t=0s)|-|
-
 |From Snowflake Servers to Snowflake Clusters - The GitOps Journey - Allison Richardet|[Video](https://www.youtube.com/watch?v=VJpEuzSkkXs&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=90&t=0s)|-|
 |Panel Discussion: Ask Us Anything: Microservices and Service Mesh|[Video](https://www.youtube.com/watch?v=101xw1RN3t4&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=91&t=0s)|-|
 |Building an Enterprise-ready Lambda Experience (with Hands-On Demo) - Alexandre González Rodríguez|[Video](https://www.youtube.com/watch?v=rYp97G6aE68&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=92&t=0s)|-|
 |Benchmarking Cloud Native Storage - Josh Berkus, Red Hat|[Video](https://www.youtube.com/watch?v=4V-4yPSfN3U&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=93&t=0s)|-|
 |Mental Health in Tech - Dr. Jennifer Akullian, Growth Coaching Institute|[Video](https://www.youtube.com/watch?v=vImweuVsaIw&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=94&t=0s)|-|
-
 |The Kubernetes Control Plane for Busy People Who Like Pictures - Daniel Smith, Google|[Video](https://www.youtube.com/watch?v=zCXiXKMqnuE&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=96&t=0s)|-|
 |Kanary - Automated and Integrated Canary Testing Using CRD... - David Benque & Cédric Lamorinière|[Video](https://www.youtube.com/watch?v=mmvSzDEw-JI&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=97&t=0s)|-|
-
 |Kubernetes Security and How to Fix K8s Cluster at Scale - Simon Pearce & Sebastian Scheele|[Video](https://www.youtube.com/watch?v=5dWRh301Lno&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=99&t=0s)|-|
-
 |Democratizing Service Mesh on Kubernetes - Gabe Monroy, Microsoft & CNCF Board Member|[Video](https://www.youtube.com/watch?v=gDLD8gyd7J8)|-|
-
 |OpenTelemetry: Backwards Compatibility with... - Ben Sigelman, Bogdan Drutu & Spiros Xanthos|[Video](https://www.youtube.com/watch?v=mvWwSkBq9sY)|-|
 |OpenTelemetry: Panel Discussion and Q&A - Ben Sigelman, Morgan McClean & Bogdan Drutu|[Video](https://www.youtube.com/watch?v=IdYZphA5S7s)|-|
 |Keynote: Closing Remarks - Bryan Liles, Senior Staff Engineer, VMware|[Video](https://www.youtube.com/watch?v=w3wN0PHwgUo)|-|
@@ -217,8 +206,6 @@ KubeCon EU'19 Videos and Presentations
 |Keynote: How Spotify Accidentally Deleted All its Kube Clusters with No User Impact - David Xia|[Video](https://www.youtube.com/watch?v=ix0Tw8uinWs)|-|
 |Keynote: Opening Remarks - Bryan Liles, Senior Staff Engineer, VMware|[Video](https://www.youtube.com/watch?v=5IvT80d8YVU)|-|
 |Intro: Kubernetes (VMware) SIG - David vonThenen & Steven Wong, VMware|[Video](https://www.youtube.com/watch?v=6Uh0jAPEB88)|-|
-
-
 |Intro: Service Catalog SIG - Jonathan Berkhahn, IBM|[Video](https://www.youtube.com/watch?v=uqPnJxScJiY)|-|
 |Intro: Kubernetes (AWS) SIG - Justin Santa Barbara, Google|[Video](https://www.youtube.com/watch?v=V9qYZTz7Msk)|-|
 |Deep Dive: Harbor - Steven Zou & Daniel Jiang, VMware|[Video](https://www.youtube.com/watch?v=cGV9P3UqZB8)|-|
@@ -235,7 +222,6 @@ KubeCon EU'19 Videos and Presentations
 |Smarter Kubernetes Access Control: A Simpler Approach to Auth - Rob Scott, ReactiveOps|[Video](https://www.youtube.com/watch?v=egQnymnZ9eg)|-|
 |Container Forensics: What to Do When Your Cluster is a Cluster - Maya Kaczorowski & Ann Wallace|[Video](https://www.youtube.com/watch?v=MyXROAqO7YI)|-|
 |The Magic of Kubernetes Self-Healing Capabilities - Saad Ali, Google|[Video](https://www.youtube.com/watch?v=91dgNqma7-Q)|-|
-
 |Zero Trust Service Mesh with Calico, SPIRE, and Envoy - Shaun Crampton & Evan Gilman|[Video](https://www.youtube.com/watch?v=rKOEYoINdOE)|-|
 |Deep Dive: TUF / Notary - Justin Cappos & Lukas Puehringer, NYU|[Video](https://www.youtube.com/watch?v=PSujE86JvBk)|-|
 |Deep Dive: Testing SIG - Benjamin Elder, Google & James Munnelly, Jetstack|[Video](https://www.youtube.com/watch?v=6m9frvTxK0o)|-|
@@ -243,9 +229,7 @@ KubeCon EU'19 Videos and Presentations
 |Deep Dive: Service Catalog SIG - Jonathan Berkhahn, IBM|[Video](https://www.youtube.com/watch?v=gShSKQErIgw)|-|
 |Deep Dive: Rook - Jared Watts & Bassam Tabbara, Upbound|[Video](https://www.youtube.com/watch?v=ngVXcLXvcfo)|-|
 |Deep Dive: Open Policy Agent - Torin Sandall & Tim Hinrichs, Styra|[Video](https://www.youtube.com/watch?v=n94_FNhuzy4)|-|
-
 |Grow with Less Pains - Meshing From Monolith to Microservices - Leo LIang|[Video](https://www.youtube.com/watch?v=sNRpfAZxD-A)|-|
-
 |Kubernetes Storage 101 - Jan Šafránek, Red Hat & David Zhu, Google|[Video](https://www.youtube.com/watch?v=_qfSzrPn9Cs)|-|
 |Resize Your Pods w/o Disruptions aka How to Have a Cake and Eat a Cake - Karol Gob & Beata Skiba|[Video](https://www.youtube.com/watch?v=58uRFofXUyw)|-|
 |Building HA Multi-Cloud Clusters Using WireGuard as a Network Overlay - Lucas Servén Marín, Red Hat|[Video](https://www.youtube.com/watch?v=iPz_DAOOCKA)|-|
@@ -254,7 +238,6 @@ KubeCon EU'19 Videos and Presentations
 |Deconstructing Apache Hadoop: A Dialogue About a Cloud-Native Refactor - Anu Engineer & Marton Elek|[Video](https://www.youtube.com/watch?v=-LQDbT_HSfo)|-|
 |Panel Discussion: Democratizing HPC & AI: Startups Scale Up with Cloud Native|[Video](https://www.youtube.com/watch?v=LP0BFtBbOwE)|-|
 |Towards Kubeflow 1.0, Bringing a Cloud Native Platform For ML to Kubernetes - David Aronchick|[Video](https://www.youtube.com/watch?v=7RBD0hXyLW8)|-|
-
 |Deep Dive: NATS - Waldemar Quevedo, Synadia Communications, Inc|[Video](https://www.youtube.com/watch?v=K7yzUusMaUc)|-|
 |Deep Dive: Kubernetes WG for Multitenancy - Sanjeev Rampal, Cisco & Ryan Bezdicek, Cray, Inc.|[Video](https://www.youtube.com/watch?v=SUW54Wlx6Po)|-|
 |Deep Dive: Kubernetes (Instrumentation) SIG - Frederic Branczyk & Max Inden, Red Hat|[Video](https://www.youtube.com/watch?v=dvk_-NCK1Ls)|-|
@@ -292,11 +275,8 @@ KubeCon EU'19 Videos and Presentations
 |Improving Availability for Stateful Applications in Kubernetes - Michelle Au, Google|[Video](https://www.youtube.com/watch?v=Cd7aJiQLIpM)|-|
 |Reinventing Networking: A Deep Dive into Istio's Multicluster Gateways - Steve Dake, Independent|[Video](https://www.youtube.com/watch?v=-t2BfT59zJA)|-|
 |Deep Dive: Kubernetes Metric APIs using Prometheus - Matthias Loibl & Sergiusz Urbaniak, Red Hat|[Video](https://www.youtube.com/watch?v=cIoOAbzhR7k)|-|
-
 |Create Visually Compelling Developer Experiences for Kubernetes on VS Code - Ivan Towlson|[Video](https://www.youtube.com/watch?v=fOvpMfunD4s)|-|
 |10 Ways to Shoot Yourself in the Foot with Kubernetes, #9 Will Surprise You - Laurent Bernaille|[Video](https://www.youtube.com/watch?v=QKI-JRs2RIE)|-|
-
-
 |From New Cluster to Insight. Deploying Monitoring and Logging to Kubernetes - Eddie Zaneski|[Video](https://www.youtube.com/watch?v=sR3jxSXY7A4)|-|
 |M3 and Prometheus, Monitoring at Planet Scale for Everyone - Rob Skillington, Uber|[Video](https://www.youtube.com/watch?v=EFutyuIpFXQ)|-|
 |Deep Dive: Kubernetes (PM) SIG - Ihor Dvoretskyi, CNCF & Stephen Augustus, VMware|[Video](https://www.youtube.com/watch?v=zs5vyLCo0dQ)|-|
@@ -310,7 +290,6 @@ KubeCon EU'19 Videos and Presentations
 |Keep the Space Shuttle Flying: Writing Robust Operators - Illya Chekrygin, Upbound|[Video](https://www.youtube.com/watch?v=uf97lOApOv8)|-|
 |Ready? A Deep Dive into Pod Readiness Gates for Service Health... - Minhan Xia & Ping Zou|[Video](https://www.youtube.com/watch?v=Vw9GmSeomFg)|-|
 |Lifecycle of a kubectl Command: Harden Kubernetes Setup with Automation - Sanjary Rahman|[Video](https://www.youtube.com/watch?v=vHGnL0vSr4E)|-|
-
 |OpenAPI Specs – Towards Native User Experience of CRDs - Stefan Schimanski, Red Hat|[Video](https://www.youtube.com/watch?v=fatglKZYdSQ)|-|
 |The Spotify Story: Moving from NIH to an Active CNCF Community Member - Jim Haughwout, Spotify|[Video](https://www.youtube.com/watch?v=OWq0X7OSCBQ)|-|
 |A Kubernetes Application End-to-End: DevStats - ukasz Gryglicki, CNCF & Josh Berkus, Red Hat|[Video](https://www.youtube.com/watch?v=U2PTifzzKNE)|-|
@@ -327,10 +306,7 @@ KubeCon EU'19 Videos and Presentations
 |Network Machinery: A United-Front for Network Troubleshooting with CRDs - Adel Zaalouk, SAP|[Video](https://www.youtube.com/watch?v=JsJoRkmzoa0)|-|
 |Deep Dive: Network Service Mesh (NSM) - Nikolay Nikolaev, VMware & Frederick Kautz, Doc.ai|[Video](https://www.youtube.com/watch?v=AWHkn_dqAUA)|-|
 |Deep Dive: CNCF Security SIG – Justin Cappos, New York University & Zhipeng Huang, Huawei|[Video](https://www.youtube.com/watch?v=EF3nl80kpm4)|-|
-
-
 |Serverless Operations: From Dev to Production - Erwin van Eyk, Platform9|[Video](https://www.youtube.com/watch?v=5ftE6LBdkGY)|-|
-
 |5 Simple Steps To Simplifying Your Compliance Journey With a Service Mesh – Granville Schmidt|[Video](https://www.youtube.com/watch?v=BGqWrdfZEMM)|-|
 |Fool-Proof Kubernetes Dashboards for Sleep-Deprived Oncalls - David Kaltschmidt, Grafana Labs|[Video](https://www.youtube.com/watch?v=YE2aQFiMGfY)|-|
 |Secrets Store CSI Driver-Bring Your Own Enterprise Secrets Store to K8s - Rita Zhang|[Video](https://www.youtube.com/watch?v=bIC4kLnrKN0)|-|
@@ -340,10 +316,7 @@ KubeCon EU'19 Videos and Presentations
 |DIY Pen-Testing for Your Kubernetes Cluster - Liz Rice, Aqua Security|[Video](https://www.youtube.com/watch?v=fVqCAUJiIn0)|-|
 |How Does Google Release Kubernetes in GKE - Kobi Magnezi & Josh Hoak, Google|[Video](https://www.youtube.com/watch?v=6D5JMFqlov4)|-|
 |Istio on Knative Lessons Learned: How Istio is Fit for Serverless Platform - Ying Chun Guo|[Video](https://www.youtube.com/watch?v=DN7chnOM0g0)|-|
-
-
 |Grafana Loki: Like Prometheus, But for logs. - Tom Wilkie, Grafana Labs|[Video](https://www.youtube.com/watch?v=CQiawXlgabQ)|-|
-
 |Intro + Deep Dive: Kubernetes Conformance WG - Dan Kohn, CNCF, William Denniss, Aaron Crickenberger|[Video](https://www.youtube.com/watch?v=u8AlHpJwv6Q)|-|
 |Deep Dive: Long Term Support WG - Tim Pepper, VMware|[Video](https://www.youtube.com/watch?v=yJhENGXNpVU)|-|
 |Deep Dive: Auth SIG - Mo Khan & Matt Rogers, Red Hat|[Video](https://www.youtube.com/watch?v=-2xcNjKLU9E)|-|
@@ -357,8 +330,6 @@ KubeCon EU'19 Videos and Presentations
 |Public Technical Oversight Committee (TOC) Meeting - Moderated by Chris Aniszczyk, CNCF|[Video](https://www.youtube.com/watch?v=YdwX-DAlGGY)|-|
 |Deep Dive: Envoy - Lizan Zhou, Tetrate|[Video](https://www.youtube.com/watch?v=spzfupads2o)|-|
 |Delivering Serverless Experience on Kubernetes: Beyond Web Applications - Alex Glikson|[Video](https://www.youtube.com/watch?v=VCGlGlBdr-o)|-|
-
-
 |How LivePerson is Tailoring its Conversational Platform Using OpenFaaS - Simon Pelczer|[Video](https://www.youtube.com/watch?v=bt06Z28uzPA)|-|
 |Managing Edge Computing with Serverless - Lev Radomislensky, Iguazio|[Video](https://www.youtube.com/watch?v=S7W5Vgcpi2s)|-|
 |Ouch! What I Learned From Being Hit by a Serverless, Ruby Boomerang! - Ewan Slater, Oracle|[Video](https://www.youtube.com/watch?v=qRI4cE2JefQ)|-|
@@ -368,7 +339,6 @@ KubeCon EU'19 Videos and Presentations
 |Kubernetes Scalability Definition Evolution - Wojciech Tyczynski & Andrzej Wasylkowski, Google|[Video](https://www.youtube.com/watch?v=7j76n21Pn-4)|-|
 |High Performance Networking with Kubevirt - Doug Smith, Red Hat & Abdul Halim, Intel|[Video](https://www.youtube.com/watch?v=dhQ51C4F8WE)|-|
 |Running eBay’s High-Performance Workloads with Kubernetes - Xin Ma, eBay|[Video](https://www.youtube.com/watch?v=tcZW6gD5mn8)|-|
-
 |Democratizing MySQL: From Cloud Managed to Kubernetes Managed - Sachin Manpathak|[Video](https://www.youtube.com/watch?v=T9NY0Iy-jOo)|-|
 |Embracing Upstream Kubernetes in Web Scale Organization - Lei Zhang & Jun Chen|[Video](https://www.youtube.com/watch?v=ptOLV2wjQUw)|-|
 |Panel Discussion: Going Multi-Cloud for Realz. Stories From Media, Retail, & Infrastructure|[Video](https://www.youtube.com/watch?v=JQoC1FtmKds)|-|
@@ -413,9 +383,6 @@ KubeCon EU'19 Videos and Presentations
 |Kubernetes Networking at Scale - Laurent Bernaille, Datadog & Bowei Du, Google|[Video](https://www.youtube.com/watch?v=MvoImel5qfc)|-|
 |Peribolos: How Kubernetes Uses GitOps to Manage GitHub Communities at Scale - Christoph Blecker|[Video](https://www.youtube.com/watch?v=te3Xj2zr1Co)|-|
 |How Intuit Does Canary and Blue Green Deployments with a K8s Controller - Daniel Thomson|[Video](https://www.youtube.com/watch?v=yeVkTTO9nOA)|-|
-
-
-
 |Intro + Deep Dive: Multicluster SIG - Irfan Ur Rehman, Huawei & Maru Newby, Red Hat|[Video](https://www.youtube.com/watch?v=GOiN1R2vQos)|-|
 |Deep Dive: Vitess - Jiten Vaidya & Dan Kozlowski, PlanetScale|[Video](https://www.youtube.com/watch?v=OZl4HrB9p-8)|-|
 |Deep Dive: Azure SIG - Stephen Augustus, VMware & Lachlan Evenson|[Video](https://www.youtube.com/watch?v=aICBtyM7ZNI)|-|
@@ -427,7 +394,5 @@ KubeCon EU'19 Videos and Presentations
 |Keynote: Opening Remarks - Janet Kuo, Software Engineer, Google|[Video](https://www.youtube.com/watch?v=VljLVMMtSLk)|-|
 -|
 |Fine-Grained Permissions in Kubernetes: What’s Missing, and How to Fix That - Vallery Lancey|[Video](https://www.youtube.com/watch?v=TZ73EBP2a9Q)|-|
-
 |Ingress V2 and Multicluster Services - Rohit Ramkumar & Bowei Du, Google|[Video](https://www.youtube.com/watch?v=Ne9UJL6irXY)|-|
-
 |Panel Discussion: Leveraging Cloud Native Technology to Transform Your Enterprise|[Video](https://www.youtube.com/watch?v=0CxDZOJP6Rc)|-|
