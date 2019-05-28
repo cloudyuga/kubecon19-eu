@@ -45,6 +45,10 @@ KubeCon EU'19 Videos and Presentations
 |Sponsored Keynote: What I Learned Running 10,000+ Kubernetes Clusters - Jason McGee, IBM Fellow, IBM|[Video](https://www.youtube.com/watch?v=HXF0QzxUBTw)|[Slides]|
 |Sponsored Keynote: Building a Bigger Tent: Cloud Native, Cultural Change and... - Bob Quillin|[Video](https://www.youtube.com/watch?v=hi5jXcauQE4)|[Slides]|
 |Keynote: Opening Remarks - Bryan Liles, Senior Staff Engineer, VMware|[Video](https://www.youtube.com/watch?v=5IvT80d8YVU)|[Slides]|
+|Keynote: From COBOL to Kubernetes: A 250 Year Old Bank's Cloud-Native Journey - Laura Rehorst, Product Owner - Stratus Platform, ABN AMRO Bank NV & Mike Ryan, DevOps Consultant, backtothelab.io|[Video](https://www.youtube.com/watch?v=uRvKGZ_fDPU)|[Slides]|
+|Keynote: Metrics, Logs & Traces; What Does the Future Hold for Observability? - Tom Wilkie, VP Product, Grafana Labs & Frederic Branczyk, Software Engineer, Red Hat|[Video](https://www.youtube.com/watch?v=MkSdvPdS1oA)|[Slides](https://static.sched.com/hosted_files/kccnceu19/b7/Tom%20Wilkie%20and%20Frederic%20Branczyk%20-%20May%2023.pdf)|
+|Keynote: Reperforming a Nobel Prize Discovery on Kubernetes - Ricardo Rocha, Computing Engineer & Lukas Heinrich, Physicist, CERN|[Video](https://www.youtube.com/watch?v=CTfp2woVEkA)|[Slides]|
+|Sponsored Keynote: Recursive Kubernetes: Cluster API and Clusters as Cattle - Joe Beda, Principal Engineer, VMware|[Video](https://www.youtube.com/watch?v=OXSRfl8mYyo)|[Slides]|
 
 ## Tutorials
 
