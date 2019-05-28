@@ -92,8 +92,7 @@ KubeCon EU'19 Videos and Presentations
 |Intro to CNAB: Packaging Cloud Native Applications with Multiple Toolchains - Chris Crone, Docker|[Video](https://www.youtube.com/watch?v=r6aqKhvdsRs&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=89&t=0s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/94/KubeCon%20EU%202019%20Intro%20to%20CNAB.pdf)|
 |Scavenging for Reusable Code in the Kubernetes Codebase - Kevin Lingerfelt, Buoyant|[Video](https://www.youtube.com/watch?v=G8swjziYjY8)|[Slides](https://static.sched.com/hosted_files/kccnceu19/dc/Scavenging%20for%20Reusable%20Code%20in%20the%20Kubernetes%20Codebase.pdf)|
 |Reproducible Development and Deployment with Bazel and Telepresence - Christian Roggia, Engel & Völkers Technology GmbH|[Video]()|[Slides](https://static.sched.com/hosted_files/kccnceu19/e4/Reproducible%20development%20and%20deployment%20with%20Bazel%20and%20Telepresence.pdf)|
-|Learn how to Leverage Kubernetes to Support 12 Factor for Enterprise Apps - Brad Topol & Michael Elder, IBM
- |[Video]()|[slides]()|
+|Learn how to Leverage Kubernetes to Support 12 Factor for Enterprise Apps - Brad Topol|[Video](https://www.youtube.com/watch?v=Se77gdPd-Bk)|[slides](https://static.sched.com/hosted_files/kccnceu19/6c/Learn%20how%20to%20Leverage%20Kubernetes%20to%20Support%2012%20Factor%20for%20Enterprise%20Apps.pdf)|
 |Create Visually Compelling Developer Experiences for Kubernetes on VS Code - Ivan Towlson & Ralph Squillace, Microsoft|[Video]()|[Slides]()|
 |Build a Kubernetes Based Cloud Native Storage Solution From Scratch - Sheng Yang, Rancher Labs|[Video](https://www.youtube.com/watch?v=XVAZ1BM_hpM)|[Slides]()|
 |Hacking Helm - Paul Czarkowski, Pivotal & Scott Rigby, Codeacademy|[Video](https://www.youtube.com/watch?v=QL-OztkJ4V8)|[Slides]|
@@ -396,7 +395,7 @@ KubeCon EU'19 Videos and Presentations
 |Keynote: From COBOL to Kubernetes: A 250 Year Old Bank's Cloud-Native Journey - Laura Rehorst|[Video](https://www.youtube.com/watch?v=uRvKGZ_fDPU)|-|
 |Keynote: Kubernetes - Don't Stop Believin' – Bryan Liles, Senior Staff Engineer, VMware|[Video](https://www.youtube.com/watch?v=Rbe0eNXqCoA)|-|
 |Keynote: Opening Remarks - Janet Kuo, Software Engineer, Google|[Video](https://www.youtube.com/watch?v=VljLVMMtSLk)|-|
-|Learn how to Leverage Kubernetes to Support 12 Factor for Enterprise Apps - Brad Topol|[Video](https://www.youtube.com/watch?v=Se77gdPd-Bk)|-|
+-|
 |Fine-Grained Permissions in Kubernetes: What’s Missing, and How to Fix That - Vallery Lancey|[Video](https://www.youtube.com/watch?v=TZ73EBP2a9Q)|-|
 |Databases on Kubernetes Using a Custom Operator: Day 1, Day 2, and Beyond - Johannes Unterstein|[Video](https://www.youtube.com/watch?v=qgtlztEFqr4)|-|
 |Ingress V2 and Multicluster Services - Rohit Ramkumar & Bowei Du, Google|[Video](https://www.youtube.com/watch?v=Ne9UJL6irXY)|-|
