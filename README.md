@@ -33,6 +33,13 @@ KubeCon EU'19 Videos and Presentations
 |Sponsored Keynote: Network, Please Evolve – Vijoy Pandey, VP/CTO Cloud, Cisco|[Video](https://www.youtube.com/watch?v=KmCfIQFllOM)|[Slides]|
 |Keynote: Getting Started in the Kubernetes Community - Lucas Käldström & Nikhita Raghunath|[Video](https://www.youtube.com/watch?v=Bho4miiByP0)|[Slides]|
 |Keynote: Closing Remarks - Bryan Liles, Senior Staff Engineer, VMware|[Video](https://www.youtube.com/watch?v=qosnil3WyRU)|[Slides]|
+|Keynote: Closing Remarks - Janet Kuo, Software Engineer, Google|[Video](https://www.youtube.com/watch?v=PuDJ1Fc9JtQ&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=100&t=0s)|[Slides]|
+|Sponsored Keynote: Expanding the Kubernetes Operator Community - Rob Szumski|[Video](https://www.youtube.com/watch?v=KPOEnFwspiY&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=101&t=0s)|[Slides]|
+|Keynote: Reperforming a Nobel Prize Discovery on Kubernetes - Ricardo Rocha & Lukas Heinrich|[Video](https://www.youtube.com/watch?v=CTfp2woVEkA)|[Slides]|
+|Sponsored Keynote: Recursive Kubernetes: Cluster API and Clusters as Cattle - Joe Beda|[Video](https://www.youtube.com/watch?v=OXSRfl8mYyo)|[Slides]|
+|Keynote: Kubernetes Project Update - Janet Kuo, Software Engineer, Google|[Video](https://www.youtube.com/watch?v=jISu86XmkHE)|[Slides]|
+|Keynote: Welcome Remarks - Janet Kuo, Software Engineer, Google|[Video](https://www.youtube.com/watch?v=Npgx6g3Fbds)|[Slides]|
+
 
 ## Tutorials
 
@@ -128,11 +135,10 @@ KubeCon EU'19 Videos and Presentations
 |Democratizing MySQL: From Cloud Managed to Kubernetes Managed - Sachin Manpathak, Platform9 & Flavius Mecea, Presslabs SRL|[Video](https://www.youtube.com/watch?v=T9NY0Iy-jOo)|[Slides](https://static.sched.com/hosted_files/kccnceu19/a2/Kubecon_%20Democratizing%20MySQL_%20Cloud%20Managed%20to%20K8s%20Managed.pdf)|
 |Delivering TV Everywhere with Cloud Native Solutions - Arnaud Caron & Jerome Champetier, Mediakind|[Video](https://www.youtube.com/watch?v=ZX8uLg_rfeE)|[Slides](https://static.sched.com/hosted_files/kccnceu19/ab/Delivering%20TV%20Everywhere%20with%20Cloud%20Native%20Solutions.pdf)|
 
-## MORE
+## MORE TOPIC 
 
 | Topic       |      Video     |  Presentation |
 | ------------- |:-------------:| -----: |
-
 |The Multicluster Toolbox - Adrien Trouillaud, Admiralty|[Video](https://www.youtube.com/watch?v=Fv2PKKDgjIQ&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=33&t=0s)|[Slides]()|
 |Intro: TUF / Notary - Justin Cappos, NYU & Justin Cormack, Docker|[Video](https://www.youtube.com/watch?v=gIFRQObHbZk&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=34&t=0s)|-|
 |Intro: KubeEdge - Cindy Xing, Futurewei & Dejan Bosanac, Red Hat|[Video](https://www.youtube.com/watch?v=pdqlANkpOMs&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=35&t=0s)|-|
@@ -199,13 +205,9 @@ KubeCon EU'19 Videos and Presentations
 |Kanary - Automated and Integrated Canary Testing Using CRD... - David Benque & Cédric Lamorinière|[Video](https://www.youtube.com/watch?v=mmvSzDEw-JI&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=97&t=0s)|-|
 
 |Kubernetes Security and How to Fix K8s Cluster at Scale - Simon Pearce & Sebastian Scheele|[Video](https://www.youtube.com/watch?v=5dWRh301Lno&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=99&t=0s)|-|
-|Keynote: Closing Remarks - Janet Kuo, Software Engineer, Google|[Video](https://www.youtube.com/watch?v=PuDJ1Fc9JtQ&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=100&t=0s)|-|
-|Sponsored Keynote: Expanding the Kubernetes Operator Community - Rob Szumski|[Video](https://www.youtube.com/watch?v=KPOEnFwspiY&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=101&t=0s)|-|
-|Keynote: Reperforming a Nobel Prize Discovery on Kubernetes - Ricardo Rocha & Lukas Heinrich|[Video](https://www.youtube.com/watch?v=CTfp2woVEkA)|-|
-|Sponsored Keynote: Recursive Kubernetes: Cluster API and Clusters as Cattle - Joe Beda|[Video](https://www.youtube.com/watch?v=OXSRfl8mYyo)|-|
-|Keynote: Kubernetes Project Update - Janet Kuo, Software Engineer, Google|[Video](https://www.youtube.com/watch?v=jISu86XmkHE)|-|
+
 |Democratizing Service Mesh on Kubernetes - Gabe Monroy, Microsoft & CNCF Board Member|[Video](https://www.youtube.com/watch?v=gDLD8gyd7J8)|-|
-|Keynote: Welcome Remarks - Janet Kuo, Software Engineer, Google|[Video](https://www.youtube.com/watch?v=Npgx6g3Fbds)|-|
+
 |OpenTelemetry: Backwards Compatibility with... - Ben Sigelman, Bogdan Drutu & Spiros Xanthos|[Video](https://www.youtube.com/watch?v=mvWwSkBq9sY)|-|
 |OpenTelemetry: Panel Discussion and Q&A - Ben Sigelman, Morgan McClean & Bogdan Drutu|[Video](https://www.youtube.com/watch?v=IdYZphA5S7s)|-|
 |Keynote: Closing Remarks - Bryan Liles, Senior Staff Engineer, VMware|[Video](https://www.youtube.com/watch?v=w3wN0PHwgUo)|-|
