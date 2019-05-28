@@ -33,13 +33,6 @@ KubeCon EU'19 Videos and Presentations
 |Sponsored Keynote: Network, Please Evolve – Vijoy Pandey, VP/CTO Cloud, Cisco|[Video](https://www.youtube.com/watch?v=KmCfIQFllOM)|[Slides]|
 |Keynote: Getting Started in the Kubernetes Community - Lucas Käldström & Nikhita Raghunath|[Video](https://www.youtube.com/watch?v=Bho4miiByP0)|[Slides]|
 |Keynote: Closing Remarks - Bryan Liles, Senior Staff Engineer, VMware|[Video](https://www.youtube.com/watch?v=qosnil3WyRU)|[Slides]|
-|Keynote: Welcome Remarks - Janet Kuo, Software Engineer, Google|
-
-
-| Topic       |      Video     |  Presentation |
-| ------------- |:-------------:| -----: |
-|KubeFlow BoF: David Aronchick, Microsoft & Yaron Haviv, Iguazio|[Video](https://www.youtube.com/watch?v=27jfFO1ym7Q&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=25&t=0s)|-|
-|BoF Deep Dive: Chaos Engineering - Sylvain Hellegouarch, ChaosIQ|[Video](https://www.youtube.com/watch?v=Qus15C5vT5Y&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=26&t=0s)|-|
 
 ## Tutorials
 
@@ -69,11 +62,6 @@ KubeCon EU'19 Videos and Presentations
 |Peribolos: How Kubernetes Uses GitOps to Manage GitHub Communities at Scale - Christoph Blecker, Red Hat & Erick Fejta, Google|[Video](https://www.youtube.com/watch?v=te3Xj2zr1Co)|[Slides](https://static.sched.com/hosted_files/kccnceu19/8e/Peribolos%20Slides.pdf)|
 |How Does Google Release Kubernetes in GKE - Kobi Magnezi & Josh Hoak, Google|[Video](https://www.youtube.com/watch?v=6D5JMFqlov4)|[Slides](https://static.sched.com/hosted_files/kccnceu19/9c/Kubecon%20EU%202019%20-%20Final.pdf)|
 
-
-## Unknown
-| Topic       |      Video     |  Presentation |
-| ------------- |:-------------:| -----: |
-|Kubernetes Failure Stories and How to Crash Your Clusters - Henning Jacobs, Zalando SE|[Video](https://www.youtube.com/watch?v=6sDTB4eV4F8&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=31&t=0s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/c8/2019-05-21%20Kubernetes%20Failure%20Stories%20-%20KubeCon%20Europe.pdf)|
 
 ## Service Mesh
 | Topic       |      Video     |  Presentation |
@@ -118,14 +106,39 @@ KubeCon EU'19 Videos and Presentations
 
 
 ## Case Studies
+
 | Topic       |      Video     |  Presentation |
 | ------------- |:-------------:| -----: |
+|Kubernetes Security and How to Fix K8s Cluster at Scale - Simon Pearce, SysEleven & Sebastian Scheele, Loodse|[Video](https://www.youtube.com/watch?v=5dWRh301Lno)|[Slides](https://static.sched.com/hosted_files/kccnceu19/ef/KubeCon-Europe-2019.pdf)|
+|Databases on Kubernetes Using a Custom Operator: Day 1, Day 2, and Beyond - Johannes Unterstein|[Video](https://www.youtube.com/watch?v=qgtlztEFqr4)|[Slides](https://static.sched.com/hosted_files/kccnceu19/f6/21.05.2019%20-%20Kubecon%20-%20Neo4j%20cloud%20and%20k8s%20%281%29.pdf)|
+|Kubernetes the New Research Platform - Lindsey Tulloch, Brock University & Bob Killen, University of Michigan|[Video](https://www.youtube.com/watch?v=E09XTOWbBKw)|[Slides](https://static.sched.com/hosted_files/kccnceu19/32/Kubernetes%20the%20New%20Research%20Platform%20%28FINAL%29.pdf)|
+|Laying the Foundation: Real World Kubernetes Deployment Patterns - Josh Rosso & Craig Tracey, VMware|[Video]|[Slides](https://static.sched.com/hosted_files/kccnceu19/9d/laying%20the%20foundation.pdf)|
+|Birds of a Feather: Radio Access Network LTE/CBRS Edge - John Studarus, Packet Host|[Video](https://www.youtube.com/watch?v=za_ZB1geDRA&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=38&t=0s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/41/The%20Edge%20is%20Open%20-%20Kubecon%20EU%202019.pdf)|
+|KubeFlow BoF: David Aronchick, Microsoft & Yaron Haviv, Iguazio|[Video](https://www.youtube.com/watch?v=27jfFO1ym7Q&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=25&t=0s)|-|
+|BoF Deep Dive: Chaos Engineering - Sylvain Hellegouarch, ChaosIQ|[Video](https://www.youtube.com/watch?v=Qus15C5vT5Y&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=26&t=0s)|-|
+|Kubernetes Failure Stories and How to Crash Your Clusters - Henning Jacobs, Zalando SE|[Video](https://www.youtube.com/watch?v=6sDTB4eV4F8&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=31&t=0s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/c8/2019-05-21%20Kubernetes%20Failure%20Stories%20-%20KubeCon%20Europe.pdf)|
+|How We Used Kubernetes to Host a Capture the Flag (CTF) - Ariel Zelivansky & Liron Levin, Twistlock|[Video](https://www.youtube.com/watch?v=kUmaKvxdfvg)|[Slides](https://static.sched.com/hosted_files/kccnceu19/6b/kubecon%20talk.pdf)|
+|The Story of Why We Migrate to gRPC and How We Go About It - Matthias Grüter, Spotify|[Video](https://www.youtube.com/watch?v=fMq3IpPE3TU)|[Slides]()|
+|Deconstructing Apache Hadoop: A Dialogue About a Cloud-Native Refactor - Anu Engineer & Marton Elek, Cloudera|[Video](https://www.youtube.com/watch?v=-LQDbT_HSfo)|[Slides](https://static.sched.com/hosted_files/kccnceu19/06/Cloud-native%20refactor.pdf)|
+|10 Ways to Shoot Yourself in the Foot with Kubernetes, #9 Will Surprise You - Laurent Bernaille & Robert Boll, Datadog
+ |[Video](https://www.youtube.com/watch?v=QKI-JRs2RIE)|[Slides]|
+|Running Kubernetes on Ephemeral Infrastructure - Greg DeArment & Vlad Ungureanu, Palantir Technologies|[Video](https://www.youtube.com/watch?v=7zUsc2zI5o8)|[Slides](https://static.sched.com/hosted_files/kccnceu19/69/palantir-kubecon19_k8s%20on%20ephemeral%20infrastructure.pdf)|
+|Scaling Edge Operations at Onefootball with Ambassador: From 0 to 6000 rps - Jonathan Juares Beber & Rodrigo Del Monte, Onefootball GmbH|[Video](https://www.youtube.com/watch?v=07RvO4AChHE)|[Slides](https://static.sched.com/hosted_files/kccnceu19/78/Kubecon%20-%20onefootball.pdf)|
+|Embracing Upstream Kubernetes in Web Scale Organization - Lei Zhang, Alibaba & Jun Chen, Ant Financial|[Video](https://www.youtube.com/watch?v=ptOLV2wjQUw)|[Slides](https://static.sched.com/hosted_files/kccnceu19/3f/kubecon-speak.pdf)|
+|Democratizing MySQL: From Cloud Managed to Kubernetes Managed - Sachin Manpathak, Platform9 & Flavius Mecea, Presslabs SRL|[Video](https://www.youtube.com/watch?v=T9NY0Iy-jOo)|[Slides](https://static.sched.com/hosted_files/kccnceu19/a2/Kubecon_%20Democratizing%20MySQL_%20Cloud%20Managed%20to%20K8s%20Managed.pdf)|
+|Delivering TV Everywhere with Cloud Native Solutions - Arnaud Caron & Jerome Champetier, Mediakind|[Video](https://www.youtube.com/watch?v=ZX8uLg_rfeE)|[Slides](https://static.sched.com/hosted_files/kccnceu19/ab/Delivering%20TV%20Everywhere%20with%20Cloud%20Native%20Solutions.pdf)|
+
+## MORE
+
+| Topic       |      Video     |  Presentation |
+| ------------- |:-------------:| -----: |
+
 |The Multicluster Toolbox - Adrien Trouillaud, Admiralty|[Video](https://www.youtube.com/watch?v=Fv2PKKDgjIQ&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=33&t=0s)|[Slides]()|
 |Intro: TUF / Notary - Justin Cappos, NYU & Justin Cormack, Docker|[Video](https://www.youtube.com/watch?v=gIFRQObHbZk&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=34&t=0s)|-|
 |Intro: KubeEdge - Cindy Xing, Futurewei & Dejan Bosanac, Red Hat|[Video](https://www.youtube.com/watch?v=pdqlANkpOMs&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=35&t=0s)|-|
 |Intro: SPIFFE - Emiliano Bernbaum & Scott Emmons, Scytale|[Video](https://www.youtube.com/watch?v=Rx6PMptyEtg&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=36&t=0s)|-|
 |P2P Docker Image Distribution in Hybrid Cloud Environment with Kraken - Yiran Wang & Cody Gibb, Uber|[Video](https://www.youtube.com/watch?v=waVtYYSXkXU&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=37&t=0s)|-|
-|Birds of a Feather: Radio Access Network LTE/CBRS Edge - John Studarus, Packet Host|[Video](https://www.youtube.com/watch?v=za_ZB1geDRA&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=38&t=0s)|-|
+
 |Portable, Universal Single Sign-On for Your Clusters - Miguel Martinez, Bitnami|[Video](https://www.youtube.com/watch?v=p5x1btmD2Yw&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=39&t=0s)|-|
 |Kubernetes the New Research Platform - Lindsey Tulloch & Bob Killen|[Video](https://www.youtube.com/watch?v=E09XTOWbBKw&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=40&t=0s)|-|
 |Intro: Cluster Lifecycle SIG - Lucas Käldström, Independent & Tim St. Clair, VMware|[Video](https://www.youtube.com/watch?v=bA2M41J4wvg&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=41&t=0s)|-|
@@ -240,7 +253,7 @@ KubeCon EU'19 Videos and Presentations
 |Deconstructing Apache Hadoop: A Dialogue About a Cloud-Native Refactor - Anu Engineer & Marton Elek|[Video](https://www.youtube.com/watch?v=-LQDbT_HSfo)|-|
 |Panel Discussion: Democratizing HPC & AI: Startups Scale Up with Cloud Native|[Video](https://www.youtube.com/watch?v=LP0BFtBbOwE)|-|
 |Towards Kubeflow 1.0, Bringing a Cloud Native Platform For ML to Kubernetes - David Aronchick|[Video](https://www.youtube.com/watch?v=7RBD0hXyLW8)|-|
-|How We Used Kubernetes to Host a Capture the Flag (CTF) - Ariel Zelivansky & Liron Levin, Twistlock|[Video](https://www.youtube.com/watch?v=kUmaKvxdfvg)|-|
+
 |Deep Dive: NATS - Waldemar Quevedo, Synadia Communications, Inc|[Video](https://www.youtube.com/watch?v=K7yzUusMaUc)|-|
 |Deep Dive: Kubernetes WG for Multitenancy - Sanjeev Rampal, Cisco & Ryan Bezdicek, Cray, Inc.|[Video](https://www.youtube.com/watch?v=SUW54Wlx6Po)|-|
 |Deep Dive: Kubernetes (Instrumentation) SIG - Frederic Branczyk & Max Inden, Red Hat|[Video](https://www.youtube.com/watch?v=dvk_-NCK1Ls)|-|
@@ -278,7 +291,7 @@ KubeCon EU'19 Videos and Presentations
 |Improving Availability for Stateful Applications in Kubernetes - Michelle Au, Google|[Video](https://www.youtube.com/watch?v=Cd7aJiQLIpM)|-|
 |Reinventing Networking: A Deep Dive into Istio's Multicluster Gateways - Steve Dake, Independent|[Video](https://www.youtube.com/watch?v=-t2BfT59zJA)|-|
 |Deep Dive: Kubernetes Metric APIs using Prometheus - Matthias Loibl & Sergiusz Urbaniak, Red Hat|[Video](https://www.youtube.com/watch?v=cIoOAbzhR7k)|-|
-|The Story of Why We Migrate to gRPC and How We Go About It - Matthias Grüter, Spotify|[Video](https://www.youtube.com/watch?v=fMq3IpPE3TU)|-|
+
 |Create Visually Compelling Developer Experiences for Kubernetes on VS Code - Ivan Towlson|[Video](https://www.youtube.com/watch?v=fOvpMfunD4s)|-|
 |10 Ways to Shoot Yourself in the Foot with Kubernetes, #9 Will Surprise You - Laurent Bernaille|[Video](https://www.youtube.com/watch?v=QKI-JRs2RIE)|-|
 
@@ -354,7 +367,7 @@ KubeCon EU'19 Videos and Presentations
 |Kubernetes Scalability Definition Evolution - Wojciech Tyczynski & Andrzej Wasylkowski, Google|[Video](https://www.youtube.com/watch?v=7j76n21Pn-4)|-|
 |High Performance Networking with Kubevirt - Doug Smith, Red Hat & Abdul Halim, Intel|[Video](https://www.youtube.com/watch?v=dhQ51C4F8WE)|-|
 |Running eBay’s High-Performance Workloads with Kubernetes - Xin Ma, eBay|[Video](https://www.youtube.com/watch?v=tcZW6gD5mn8)|-|
-|Delivering TV Everywhere with Cloud Native Solutions - Arnaud Caron & Jerome Champetier, Mediakind|[Video](https://www.youtube.com/watch?v=ZX8uLg_rfeE)|-|
+
 |Democratizing MySQL: From Cloud Managed to Kubernetes Managed - Sachin Manpathak|[Video](https://www.youtube.com/watch?v=T9NY0Iy-jOo)|-|
 |Embracing Upstream Kubernetes in Web Scale Organization - Lei Zhang & Jun Chen|[Video](https://www.youtube.com/watch?v=ptOLV2wjQUw)|-|
 |Panel Discussion: Going Multi-Cloud for Realz. Stories From Media, Retail, & Infrastructure|[Video](https://www.youtube.com/watch?v=JQoC1FtmKds)|-|
@@ -413,7 +426,7 @@ KubeCon EU'19 Videos and Presentations
 |Keynote: Opening Remarks - Janet Kuo, Software Engineer, Google|[Video](https://www.youtube.com/watch?v=VljLVMMtSLk)|-|
 -|
 |Fine-Grained Permissions in Kubernetes: What’s Missing, and How to Fix That - Vallery Lancey|[Video](https://www.youtube.com/watch?v=TZ73EBP2a9Q)|-|
-|Databases on Kubernetes Using a Custom Operator: Day 1, Day 2, and Beyond - Johannes Unterstein|[Video](https://www.youtube.com/watch?v=qgtlztEFqr4)|-|
+
 |Ingress V2 and Multicluster Services - Rohit Ramkumar & Bowei Du, Google|[Video](https://www.youtube.com/watch?v=Ne9UJL6irXY)|-|
 
 |Panel Discussion: Leveraging Cloud Native Technology to Transform Your Enterprise|[Video](https://www.youtube.com/watch?v=0CxDZOJP6Rc)|-|
