@@ -33,33 +33,9 @@ KubeCon EU'19 Videos and Presentations
 |Sponsored Keynote: Network, Please Evolve – Vijoy Pandey, VP/CTO Cloud, Cisco|[Video](https://www.youtube.com/watch?v=KmCfIQFllOM)|[Slides]|
 |Keynote: Getting Started in the Kubernetes Community - Lucas Käldström & Nikhita Raghunath|[Video](https://www.youtube.com/watch?v=Bho4miiByP0)|[Slides]|
 |Keynote: Closing Remarks - Bryan Liles, Senior Staff Engineer, VMware|[Video](https://www.youtube.com/watch?v=qosnil3WyRU)|[Slides]|
+|Keynote: Welcome Remarks - Janet Kuo, Software Engineer, Google|
 
 
-| Topic        |      Video     |  Presentation |
-| ------------- |:-------------:| -----:|
-|Lightning Talk: Cloud Native Wales: How We Contributed to the Community... - Lewis Denham-Parry|[Video](https://www.youtube.com/watch?v=4jEASYCaVDo&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=2&t=0s)|-|
-|Lightning Talk: How to Regain the Trust of Your Users - Eduard Iacoboaia, Booking.com|[Video](https://www.youtube.com/watch?v=TBBpb03azec&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=3&t=0s)|-|
-|Lightning Talk: Slow Starting Containers, How to Check Their Health? - Matthias Bertschy, Swissquote|[Video](https://www.youtube.com/watch?v=wO1uy9QKNHQ&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=4&t=0s)|-|
-|Lightning Talk: Managing Drivers in a Kubernetes Cluster - Renaud Gaubert, NVIDIA|[Video](https://www.youtube.com/watch?v=HHo1DzuB4RY&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=5&t=0s)|-|
-|Lightning Talk: Hot, Fresh Containers - How Containers Are Like Cookies! - Kaslin Fields, Oracle|[Video](https://www.youtube.com/watch?v=ZQC9V5zxF4E&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=6&t=0s)|-|
-|Lightning Talk: Oh Sh*t! The Config Changed! - Joel Speed, Pusher|[Video](https://www.youtube.com/watch?v=8P7-C44Gjj8&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=7&t=0s)|-|
-|Lightning Talk: Ready, Steady, CKA! - Olive Power, VMware|[Video](https://www.youtube.com/watch?v=faVXF52u0_s&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=8&t=0s)|-|
-|Lightning Talk: Using Istio's Mixer for Network Request Caching - Zach Arnold, Ygrene Energy Fund|[Video](https://www.youtube.com/watch?v=x1SomOy431I&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=9&t=0s)|-|
-|Lightning Talk: When the Command Line is Not Enough: Why Your OSS Project Needs A GUI - Risha Mars,|[Video](https://www.youtube.com/watch?v=gPUmeMcLrQ4&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=10&t=0s)|-|
-|Lightning Talk: Using Jupyter Notebooks To Gain Insight Of Your Cluster - Ruben D Orduz, VMware|[Video](https://www.youtube.com/watch?v=sUA4hdN7znY&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=11&t=0s)|-|
-|Lightning Talk: Developing Your Career While Working on Kubernetes - Piotr Szczesniak, Google|[Video](https://www.youtube.com/watch?v=6TnA_mnStDM&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=12&t=0s)|-|
-|Lightning Talk: Kubespray CI with KubeVirt on Baremetal - Antoine Legrand, Red Hat|[Video](https://www.youtube.com/watch?v=EQN2NUN2El0&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=13&t=0s)|-|
-|Lightning Talk: Reliability Engineering for Humans - Hannah Foxwell, Pivotal|[Video](https://www.youtube.com/watch?v=kie2X6PI4Ow&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=14&t=0s)|-|
-|Lightning Talk: Kubernetes Jobs and the Sidecar Problem - James Wen, Spotify|[Video](https://www.youtube.com/watch?v=A_E2UdCsu4I&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=15&t=0s)|-|
-|Lightning Talk: Fake it Until You Make it: Unit Tests with Go-Client Fake Client - Fernando Diaz|[Video](https://www.youtube.com/watch?v=reDCJYbxtRg&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=16&t=0s)|-|
-|Lightning Talk: Beyond Operators: Reimagine Distributed Applications on Kubernetes - Vladimir Vivien|[Video](https://www.youtube.com/watch?v=GohTIRsRSB8&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=17&t=0s)|-|
-|Lightning Talk: Back to the Future with eBPF - Beatriz Martínez Rubio, IBM|[Video](https://www.youtube.com/watch?v=AQNz_16CaiI&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=18&t=0s)|-|
-|Keynote: Stitching Things Together – Dan Kohn, Executive Director, Cloud Native Computing Foundation|[Video](https://www.youtube.com/watch?v=lmGFgZ889kY&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=19&t=0s)|-|
-|Keynote: 2.66 Million - Cheryl Hung, Director of Ecosystem, Cloud Native Computing Foundation|[Video](https://www.youtube.com/watch?v=w62T1SN4g6Y&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=20&t=0s)|-|
-|Keynote: CNCF Project Update - Bryan Liles, Senior Staff Engineer, VMware Bryan Liles|[Video](https://www.youtube.com/watch?v=vdxcaR3I2ic&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=21&t=0s)|-|
-|Sponsored Keynote: Network, Please Evolve – Vijoy Pandey, VP/CTO Cloud, Cisco|[Video](https://www.youtube.com/watch?v=KmCfIQFllOM&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=22&t=0s)|-|
-|Keynote: Getting Started in the Kubernetes Community - Lucas Käldström & Nikhita Raghunath|[Video](https://www.youtube.com/watch?v=Bho4miiByP0&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=23&t=0s)|-|
-|Keynote: Closing Remarks - Bryan Liles, Senior Staff Engineer, VMware|[Video](https://www.youtube.com/watch?v=qosnil3WyRU&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=24&t=0s)|-|
 |KubeFlow BoF: David Aronchick, Microsoft & Yaron Haviv, Iguazio|[Video](https://www.youtube.com/watch?v=27jfFO1ym7Q&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=25&t=0s)|-|
 |BoF Deep Dive: Chaos Engineering - Sylvain Hellegouarch, ChaosIQ|[Video](https://www.youtube.com/watch?v=Qus15C5vT5Y&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=26&t=0s)|-|
 |Tutorial: Introduction to Kubeflow Pipelines - Michelle Casbon, Dan Sanche, Dan Anghel|[Video](https://www.youtube.com/watch?v=vDSmAaRB07M&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=27&t=0s)|-|
