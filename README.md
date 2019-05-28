@@ -40,9 +40,17 @@ KubeCon EU'19 Videos and Presentations
 | ------------- |:-------------:| -----: |
 |KubeFlow BoF: David Aronchick, Microsoft & Yaron Haviv, Iguazio|[Video](https://www.youtube.com/watch?v=27jfFO1ym7Q&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=25&t=0s)|-|
 |BoF Deep Dive: Chaos Engineering - Sylvain Hellegouarch, ChaosIQ|[Video](https://www.youtube.com/watch?v=Qus15C5vT5Y&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=26&t=0s)|-|
+
+## Tutorials
+
+| Topic     |      Video     |  Presentation |
+| ------------- |:-------------:| -----: |
 |Tutorial: Introduction to Kubeflow Pipelines - Michelle Casbon, Dan Sanche, Dan Anghel|[Video](https://www.youtube.com/watch?v=vDSmAaRB07M&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=27&t=0s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/a5/Kccnceu19%20Casbon%20V3.pdf)|
 |Tutorial: Back to Basics: Hands-On Deployment of Stateful Workloads on Kubernetes - David Zhu|[Video](https://www.youtube.com/watch?v=ZvUvCA_SbJI&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=28&t=0s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/7c/Hands-On%20Deployment%20of%20Stateful%20Workloads%20on%20Kubernetes.pdf)|
 |Using K8s Audit Logs to Secure Your Cluster - Mark Stemm, Sysdig|[Video](https://www.youtube.com/watch?v=h0h9QWhGFS4&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=29&t=0s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/ca/K8s-Audit-Logs-KubeconEU-2019.pdf)|
+|Tutorial: Cloud-Agnostic Serverless - Sebastien Goasguen, TriggerMesh|[Video](https://www.youtube.com/watch?v=P-9n1zhNgSk&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=49&t=0s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/36/kubecon-tutorial.pdf)|
+|Tutorial: Building Security into Kubernetes Deployment Pipelines - Michael Hough & Sam Irvine|[Video](https://www.youtube.com/watch?v=xjTBwZG8TtY&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=55&t=0s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/c7/KubeCon%20Barcelona%20-%20Pipeline%20Security%20Workshop.pdf)|
+|Tutorial: Bullet-Proof Kubernetes: Learn by Hacking - Luke Bond & Ana-Maria Calin|[Video](https://www.youtube.com/watch?v=NEfwUxId1Uk&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=56&t=0s)|[Slides]|
 
 | Topic       |      Video     |  Presentation |
 | ------------- |:-------------:| -----: |
@@ -65,14 +73,13 @@ KubeCon EU'19 Videos and Presentations
 |KEPs: Evolving Kubernetes at the Speed of Trust - Caleb Miles, Google|[Video](https://www.youtube.com/watch?v=9C24CSHHonY&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=46&t=0s)|-|
 |Panel Discussion: From User to Member: Becoming a Kubernetes Contributor|[Video](https://www.youtube.com/watch?v=KRXKULN0QXU&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=47&t=0s)|-|
 |Operating kube-apiserver Without Hiccups - Stefan Schimanski & David Eads, Red Hat|[Video](https://www.youtube.com/watch?v=pED17NXiexw&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=48&t=0s)|-|
-|Tutorial: Cloud-Agnostic Serverless - Sebastien Goasguen, TriggerMesh|[Video](https://www.youtube.com/watch?v=P-9n1zhNgSk&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=49&t=0s)|-|
+
 |Using eBPF to Bring Kubernetes-Aware Security to the Linux Kernel - Dan Wendlandt, Isovalent|[Video](https://www.youtube.com/watch?v=7PXQB-1U380&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=50&t=0s)|-|
 |Reproducible Development and Deployment with Bazel and Telepresence - Christian Roggia|[Video](https://www.youtube.com/watch?v=tD0FIlxO1AQ&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=51&t=0s)|-|
 |Scale Kubernetes Service Endpoints 100x - Minhan Xia & Wojciech Tyczynski, Google|[Video](https://www.youtube.com/watch?v=Y5JOCCbJ_Fg&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=52&t=0s)|-|
 |Intro: Helm - Michelle Noorali & Matt Fisher, Microsoft|[Video](https://www.youtube.com/watch?v=ltVwo1Wt0V8&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=53&t=0s)|-|
 |Envoy SDS: Fortifying Istio Security - Yonggang Liu & Quanjie Lin, Google|[Video](https://www.youtube.com/watch?v=QlQyqCaTOh0&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=54&t=0s)|-|
-|Tutorial: Building Security into Kubernetes Deployment Pipelines - Michael Hough & Sam Irvine|[Video](https://www.youtube.com/watch?v=xjTBwZG8TtY&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=55&t=0s)|-|
-|Tutorial: Bullet-Proof Kubernetes: Learn by Hacking - Luke Bond & Ana-Maria Calin|[Video](https://www.youtube.com/watch?v=NEfwUxId1Uk&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=56&t=0s)|-|
+
 |Intro: Kubernetes (PM) SIG - Ihor Dvoretskyi, CNCF & Stephen Augustus, VMware|[Video](https://www.youtube.com/watch?v=L3AyKZ5Ctc0&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=57&t=0s)|-|
 |Intro: Testing SIG - Cole Wagner & Aishwarya Sundar, Google|[Video](https://www.youtube.com/watch?v=_uO5gHVTzF8&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=58&t=0s)|-|
 |Intro: Azure SIG - Stephen Augustus, VMware & Craig Peters, Microsoft|[Video](https://www.youtube.com/watch?v=YxPdC3YYPAw&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=59&t=0s)|-|
