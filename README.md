@@ -39,7 +39,12 @@ KubeCon EU'19 Videos and Presentations
 |Sponsored Keynote: Recursive Kubernetes: Cluster API and Clusters as Cattle - Joe Beda|[Video](https://www.youtube.com/watch?v=OXSRfl8mYyo)|[Slides]|
 |Keynote: Kubernetes Project Update - Janet Kuo, Software Engineer, Google|[Video](https://www.youtube.com/watch?v=jISu86XmkHE)|[Slides]|
 |Keynote: Welcome Remarks - Janet Kuo, Software Engineer, Google|[Video](https://www.youtube.com/watch?v=Npgx6g3Fbds)|[Slides]|
-
+|Keynote: How Spotify Accidentally Deleted All its Kube Clusters with No User Impact - David Xia, Infrastructure Engineer, Spotify|[Video](https://www.youtube.com/watch?v=ix0Tw8uinWs)|[Slides](https://static.sched.com/hosted_files/kccnceu19/b8/KubeCon%20Europe%202019%20Keynote%20-%20David%20Xia%20-%20How%20Spotify%20Accidentally%20Deleted%20All%20Its%20Kube%20Clusters%20with%20No%20User%20Impact%20slides.pdf)|
+|Keynote: A Journey to a Centralized, Globally Distributed Platform – Katie Gamanji, Cloud Platform Engineer, Condé Nast International|[Video](https://www.youtube.com/watch?v=D7pbISekc8g)|[Slides]()|
+|Keynote: Debunking the Myth: Kubernetes Storage is Hard - Saad Ali, Senior Software Engineer, Google|[Video](https://www.youtube.com/watch?v=169w6QlWhmo)|[Slides]|
+|Sponsored Keynote: What I Learned Running 10,000+ Kubernetes Clusters - Jason McGee, IBM Fellow, IBM|[Video](https://www.youtube.com/watch?v=HXF0QzxUBTw)|[Slides]|
+|Sponsored Keynote: Building a Bigger Tent: Cloud Native, Cultural Change and... - Bob Quillin|[Video](https://www.youtube.com/watch?v=hi5jXcauQE4)|[Slides]|
+|Keynote: Opening Remarks - Bryan Liles, Senior Staff Engineer, VMware|[Video](https://www.youtube.com/watch?v=5IvT80d8YVU)|[Slides]|
 
 ## Tutorials
 
@@ -135,11 +140,26 @@ KubeCon EU'19 Videos and Presentations
 |Democratizing MySQL: From Cloud Managed to Kubernetes Managed - Sachin Manpathak, Platform9 & Flavius Mecea, Presslabs SRL|[Video](https://www.youtube.com/watch?v=T9NY0Iy-jOo)|[Slides](https://static.sched.com/hosted_files/kccnceu19/a2/Kubecon_%20Democratizing%20MySQL_%20Cloud%20Managed%20to%20K8s%20Managed.pdf)|
 |Delivering TV Everywhere with Cloud Native Solutions - Arnaud Caron & Jerome Champetier, Mediakind|[Video](https://www.youtube.com/watch?v=ZX8uLg_rfeE)|[Slides](https://static.sched.com/hosted_files/kccnceu19/ab/Delivering%20TV%20Everywhere%20with%20Cloud%20Native%20Solutions.pdf)|
 
+## Customizing + Extending Kubernetes
+| Topic       |      Video     |  Presentation |
+| ------------- |:-------------:| -----: |
+|Network Machinery: A United-Front for Network Troubleshooting with CRDs - Adel Zaalouk, SAP|[Video](https://www.youtube.com/watch?v=JsJoRkmzoa0)|[Slides](https://static.sched.com/hosted_files/kccnceu19/8a/NetworkMachinery_Final.pdf)|
+|Writing kubectl Plugins for Everyone: Develop, Package & Distribute - Ahmet Alp Balkan, Google & Maciej Szulik, Red Hat|[Video](https://www.youtube.com/watch?v=83ITOTsXsHU)|[Slides](https://static.sched.com/hosted_files/kccnceu19/88/KubeCon%20EU%2719_%20kubectl%20plugins%20talk.pdf)|
+|Kanary - Automated and Integrated Canary Testing Using CRD and an Operator - David Benque, Amadeus & Cédric Lamorinière, Datadog|[Video](https://www.youtube.com/watch?v=mmvSzDEw-JI)|[Slides](https://static.sched.com/hosted_files/kccnceu19/f7/Kanary_KubeCon-Europe-2019.pdf)|
+|The Kubernetes Control Plane for Busy People Who Like Pictures - Daniel Smith, Google|[Video](https://www.youtube.com/watch?v=zCXiXKMqnuE&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=96&t=0s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/c0/control%20plane%20in%20pictures%20final.pdf)|
+|The Multicluster Toolbox - Adrien Trouillaud, Admiralty|[Video](https://www.youtube.com/watch?v=Fv2PKKDgjIQ&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=33&t=0s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/4f/KubeCon-Europe-2019-The_Multicluster_Toolbox-DRAFT.pdf)|
+|OpenAPI Specs – Towards Native User Experience of CRDs - Stefan Schimanski, Red Hat|[Video](https://www.youtube.com/watch?v=fatglKZYdSQ)|[Slides](https://static.sched.com/hosted_files/kccnceu19/48/OpenAPI%20Specs%20-%20Towards%20Native%20User%20Experience%20of%20CRDs.pdf)|
+|Resize Your Pods w/o Disruptions aka How to Have a Cake and Eat a Cake - Karol Gołąb & Beata Skiba, Google|[Video](https://www.youtube.com/watch?v=58uRFofXUyw)|[Slides](https://static.sched.com/hosted_files/kccnceu19/cf/Cake%20presentation.pdf)|
+|Lifecycle of a kubectl Command: Harden Kubernetes Setup with Automation - Sanjary Rahman, Booking.com|[Video](https://www.youtube.com/watch?v=vHGnL0vSr4E)|[Slides](https://static.sched.com/hosted_files/kccnceu19/ae/Lifecycle%20of%20a%20kubectl%20command%20-%20Sanjary.pdf)|
+|Ready? A Deep Dive into Pod Readiness Gates for Service Health Management - Minhan Xia, Google & Ping Zou, Intuit||[Video](https://www.youtube.com/watch?v=Vw9GmSeomFg)|[Slides](https://static.sched.com/hosted_files/kccnceu19/73/Ready_%20A%20Deep%20Dive%20into%20Pod%20Readiness%20Gates%20for%20Service%20Health%20Management.pdf)|
+|Keep the Space Shuttle Flying: Writing Robust Operators - Illya Chekrygin, Upbound|[Video](https://www.youtube.com/watch?v=uf97lOApOv8)|[Slides](https://static.sched.com/hosted_files/kccnceu19/1b/Writing%20Robust%20Operators.pdf)|
+|Extending Knative for Fun and Profit - Matt Moore & Ville Aikas, Google|[Video](https://www.youtube.com/watch?v=Mb8c5SP-Sw0)|[Slides](https://static.sched.com/hosted_files/kccnceu19/ba/what-the-duck.pdf)|
+
 ## MORE TOPIC 
 
 | Topic       |      Video     |  Presentation |
 | ------------- |:-------------:| -----: |
-|The Multicluster Toolbox - Adrien Trouillaud, Admiralty|[Video](https://www.youtube.com/watch?v=Fv2PKKDgjIQ&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=33&t=0s)|[Slides]()|
+
 |Intro: TUF / Notary - Justin Cappos, NYU & Justin Cormack, Docker|[Video](https://www.youtube.com/watch?v=gIFRQObHbZk&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=34&t=0s)|-|
 |Intro: KubeEdge - Cindy Xing, Futurewei & Dejan Bosanac, Red Hat|[Video](https://www.youtube.com/watch?v=pdqlANkpOMs&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=35&t=0s)|-|
 |Intro: SPIFFE - Emiliano Bernbaum & Scott Emmons, Scytale|[Video](https://www.youtube.com/watch?v=Rx6PMptyEtg&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=36&t=0s)|-|
@@ -198,13 +218,7 @@ KubeCon EU'19 Videos and Presentations
 |Democratizing Service Mesh on Kubernetes - Gabe Monroy, Microsoft & CNCF Board Member|[Video](https://www.youtube.com/watch?v=gDLD8gyd7J8)|-|
 |OpenTelemetry: Backwards Compatibility with... - Ben Sigelman, Bogdan Drutu & Spiros Xanthos|[Video](https://www.youtube.com/watch?v=mvWwSkBq9sY)|-|
 |OpenTelemetry: Panel Discussion and Q&A - Ben Sigelman, Morgan McClean & Bogdan Drutu|[Video](https://www.youtube.com/watch?v=IdYZphA5S7s)|-|
-|Keynote: Closing Remarks - Bryan Liles, Senior Staff Engineer, VMware|[Video](https://www.youtube.com/watch?v=w3wN0PHwgUo)|-|
-|Keynote: Debunking the Myth: Kubernetes Storage is Hard - Saad Ali, Senior Software Engineer, Google|[Video](https://www.youtube.com/watch?v=169w6QlWhmo)|-|
-|Sponsored Keynote: What I Learned Running 10,000+ Kubernetes Clusters - Jason McGee, IBM Fellow, IBM|[Video](https://www.youtube.com/watch?v=HXF0QzxUBTw)|-|
-|Keynote: A Journey to a Centralized, Globally Distributed Platform – Katie Gamanji|[Video](https://www.youtube.com/watch?v=D7pbISekc8g)|-|
-|Sponsored Keynote: Building a Bigger Tent: Cloud Native, Cultural Change and... - Bob Quillin|[Video](https://www.youtube.com/watch?v=hi5jXcauQE4)|-|
-|Keynote: How Spotify Accidentally Deleted All its Kube Clusters with No User Impact - David Xia|[Video](https://www.youtube.com/watch?v=ix0Tw8uinWs)|-|
-|Keynote: Opening Remarks - Bryan Liles, Senior Staff Engineer, VMware|[Video](https://www.youtube.com/watch?v=5IvT80d8YVU)|-|
+
 |Intro: Kubernetes (VMware) SIG - David vonThenen & Steven Wong, VMware|[Video](https://www.youtube.com/watch?v=6Uh0jAPEB88)|-|
 |Intro: Service Catalog SIG - Jonathan Berkhahn, IBM|[Video](https://www.youtube.com/watch?v=uqPnJxScJiY)|-|
 |Intro: Kubernetes (AWS) SIG - Justin Santa Barbara, Google|[Video](https://www.youtube.com/watch?v=V9qYZTz7Msk)|-|
@@ -286,11 +300,11 @@ KubeCon EU'19 Videos and Presentations
 |Intro: Auth SIG - Mo Khan, Red Hat & Mike Danese, Google|[Video](https://www.youtube.com/watch?v=m7pNQkZaw5U)|-|
 |Intro + Deep Dive: Cloud-Provider SIG - Chris Hoge, Andrew Sy Kim, & Jago Macleod|[Video](https://www.youtube.com/watch?v=qCesAxXTmH8)|-|
 |Deep Dive: Scalability SIG - Shyam Jeedigunta, Amazon Web Services & Wojciech Tyczynski, Google|[Video](https://www.youtube.com/watch?v=UddabF9SE78)|-|
-|Extending Knative for Fun and Profit - Matt Moore & Ville Aikas, Google|[Video](https://www.youtube.com/watch?v=Mb8c5SP-Sw0)|-|
-|Keep the Space Shuttle Flying: Writing Robust Operators - Illya Chekrygin, Upbound|[Video](https://www.youtube.com/watch?v=uf97lOApOv8)|-|
+
+
 |Ready? A Deep Dive into Pod Readiness Gates for Service Health... - Minhan Xia & Ping Zou|[Video](https://www.youtube.com/watch?v=Vw9GmSeomFg)|-|
 |Lifecycle of a kubectl Command: Harden Kubernetes Setup with Automation - Sanjary Rahman|[Video](https://www.youtube.com/watch?v=vHGnL0vSr4E)|-|
-|OpenAPI Specs – Towards Native User Experience of CRDs - Stefan Schimanski, Red Hat|[Video](https://www.youtube.com/watch?v=fatglKZYdSQ)|-|
+
 |The Spotify Story: Moving from NIH to an Active CNCF Community Member - Jim Haughwout, Spotify|[Video](https://www.youtube.com/watch?v=OWq0X7OSCBQ)|-|
 |A Kubernetes Application End-to-End: DevStats - ukasz Gryglicki, CNCF & Josh Berkus, Red Hat|[Video](https://www.youtube.com/watch?v=U2PTifzzKNE)|-|
 |5 Steps to Building Inclusive Communities - Ashlynn Polini, Docker|[Video](https://www.youtube.com/watch?v=7oxCqBXvJEU)|-|
