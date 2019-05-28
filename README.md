@@ -65,8 +65,8 @@ KubeCon EU'19 Videos and Presentations
 |Testing your K8s apps with KIND - Benjamin Elder, Google & James Munnelly, Jetstack.io|[Video](https://www.youtube.com/watch?v=8KtmevMFfxA)|[Slides]|
 |Repeatable Deployments with Kubernetes, Helm & Bazel - Rohan Singh, Hustle Inc|[Video](https://www.youtube.com/watch?v=T_Oi_CIe164)|[Slides](https://static.sched.com/hosted_files/kccnceu19/71/Kube%20%2B%20Bazel%20%2B%20Helm%20-%20Rohan%20Singh.pdf)|
 |Modern CI/CD with Tekton and Prow Automated via Jenkins X - James Rawlings, Cloudbees & Christie Wilson, Google|[Video]|[Slides]|
-|How Intuit Does Canary and Blue Green Deployments with a K8s Controller - Daniel Thomson & Alex Matyushentsev, Intuit|[Video]|[Slides](https://static.sched.com/hosted_files/kccnceu19/43/KubeCon-Europe-2019.pdf)|
-|Peribolos: How Kubernetes Uses GitOps to Manage GitHub Communities at Scale - Christoph Blecker, Red Hat & Erick Fejta, Google|[Vide]|[Slides](https://static.sched.com/hosted_files/kccnceu19/8e/Peribolos%20Slides.pdf)|
+|How Intuit Does Canary and Blue Green Deployments with a K8s Controller - Daniel Thomson & Alex Matyushentsev, Intuit|[Video](https://www.youtube.com/watch?v=yeVkTTO9nOA)|[Slides](https://static.sched.com/hosted_files/kccnceu19/43/KubeCon-Europe-2019.pdf)|
+|Peribolos: How Kubernetes Uses GitOps to Manage GitHub Communities at Scale - Christoph Blecker, Red Hat & Erick Fejta, Google|[Video](https://www.youtube.com/watch?v=te3Xj2zr1Co)|[Slides](https://static.sched.com/hosted_files/kccnceu19/8e/Peribolos%20Slides.pdf)|
 |How Does Google Release Kubernetes in GKE - Kobi Magnezi & Josh Hoak, Google|[Video](https://www.youtube.com/watch?v=6D5JMFqlov4)|[Slides](https://static.sched.com/hosted_files/kccnceu19/9c/Kubecon%20EU%202019%20-%20Final.pdf)|
 
 
@@ -82,8 +82,19 @@ KubeCon EU'19 Videos and Presentations
 |Istio New Workload Identity Provision Pipeline Based on Envoy SDS - Quanjie Lin & Diem Vu, Google|[Video](https://www.youtube.com/watch?v=NiiZOszksGU&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=68&t=0s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/35/Istio%20New%20Workload%20Identity%20Provision%20Pipeline%20Based%20on%20Envoy%20SDS.pdf)|
 |What WePay Learned From Processing Billions of Dollars on GKE Using Linkerd - Mohsen Rezaei, WePay|[Video](https://www.youtube.com/watch?v=ph_NqGNHdhM&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=72&t=0s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/07/kubecon_eu_19_05_21_14.pdf)|
 |Istio Multi-Cluster Service Mesh Patterns Explained - Daniel Berg & Ram Vennam, IBM|[Video](https://www.youtube.com/watch?v=-zsThiLvYos)|[Slides](https://static.sched.com/hosted_files/kccnceu19/b1/RamVennam-DanBerg-IstioMultiClusterServiceMeshPatternsExplained.pdf)|
-|Service Meshes: At What Cost? - Lee Calcote, Layer5 & Girish Ranganathan, SolarWinds|[Video](https://www.youtube.com/watch?v=LxP-yHrKL4M)|[Slides]()|
+|Service Meshes: At What Cost? - Lee Calcote, Layer5 & Girish Ranganathan, SolarWinds|[Video](https://www.youtube.com/watch?v=LxP-yHrKL4M)|[Slides]|
+|Benefits of a Service Mesh When Integrating Kubernetes with Legacy Services - Stephan Fudeus & David Meder-Marouelli, 1&1 Mail & Media Development & Technology GmbH|[Video](https://www.youtube.com/watch?v=vQ2IktsMlgQ)|[Slides](https://static.sched.com/hosted_files/kccnceu19/e7/Service%20Mesh%20and%20Legacy%20KubeCon2019.pdf)|
 |Building an Edge Control Plane with Kubernetes and Envoy - Flynn, Datawire|[Video](https://www.youtube.com/watch?v=aFbxDWteQl8)|[Slides]|
+|Grow with Less Pains - Meshing From Monolith to Microservices - Leo LIang, Cruise Automation|[Video](https://www.youtube.com/watch?v=sNRpfAZxD-A)|[Slides](https://static.sched.com/hosted_files/kccnceu19/8b/meshing%20monolith%20to%20microservices%20v2.pdf)|
+|JustFootball’s Journey to gRPC + Linkerd in Production - Ben Lambert, JustFootball & Kevin Lingerfelt, Buoyant|[Video](https://www.youtube.com/watch?v=AxPfa7Mp_WY)|[Slides](https://static.sched.com/hosted_files/kccnceu19/d6/JustFootball’s%20Journey%20to%20gRPC%20%2B%20Linkerd%20in%20Production.pdf)|
+|Securing Cloud Native Communication, From End User to Service - Daniel Bryant, Datawire & Nic Jackson, HashiCorp|[Video](https://www.youtube.com/watch?v=o1MJi54_R4o)|[Slides]|
+|5 Simple Steps To Simplifying Your Compliance Journey With a Service Mesh – Granville Schmidt, Aspen Mesh|[Video](https://www.youtube.com/watch?v=BGqWrdfZEMM)|[Slides]()|
+|Unblocking the Release Train with Istio Traffic Management - Dave Shepherd & Pierre Meunier, Wealth Wizards|[Video](https://www.youtube.com/watch?v=jJdhec4Yufo)|[Slides](https://static.sched.com/hosted_files/kccnceu19/93/Istio%20Unblocking%20The%20Release%20Train.pdf)|
+|Dealing with the Pesky Path Parameter Problem: Service Profiles - Alex Leong, Buoyant|[Video](https://www.youtube.com/watch?v=yJ1AXO3eH10)|[Slides](https://static.sched.com/hosted_files/kccnceu19/63/Dealing%20with%20the%20Pesky%20Path%20Parameter%20Problem.pdf)|
+|Networking the Service Mesh Proxy: Where We Are, Where We’re Going - Tim Swanson & John Joyce, Cisco|[Video](https://www.youtube.com/watch?v=rUB-IBZcBwY)|[Slides](https://static.sched.com/hosted_files/kccnceu19/29/Kubecon_2019_cni_talk.pdf)|
+|Cross-Cluster Calls Made Easy with Istio 1.1 - Matt Turner, Tetrate|[Video](https://www.youtube.com/watch?v=FiMSr-fOFKU)|[Slides](https://static.sched.com/hosted_files/kccnceu19/c5/KubeCon%20EU%2019.pdf)|
+
+
 
 ## Application and Development
 | Topic       |      Video     |  Presentation |
@@ -94,15 +105,21 @@ KubeCon EU'19 Videos and Presentations
 |Reproducible Development and Deployment with Bazel and Telepresence - Christian Roggia, Engel & Völkers Technology GmbH|[Video]()|[Slides](https://static.sched.com/hosted_files/kccnceu19/e4/Reproducible%20development%20and%20deployment%20with%20Bazel%20and%20Telepresence.pdf)|
 |Learn how to Leverage Kubernetes to Support 12 Factor for Enterprise Apps - Brad Topol|[Video](https://www.youtube.com/watch?v=Se77gdPd-Bk)|[slides](https://static.sched.com/hosted_files/kccnceu19/6c/Learn%20how%20to%20Leverage%20Kubernetes%20to%20Support%2012%20Factor%20for%20Enterprise%20Apps.pdf)|
 |Create Visually Compelling Developer Experiences for Kubernetes on VS Code - Ivan Towlson & Ralph Squillace, Microsoft|[Video]()|[Slides]()|
-|Build a Kubernetes Based Cloud Native Storage Solution From Scratch - Sheng Yang, Rancher Labs|[Video](https://www.youtube.com/watch?v=XVAZ1BM_hpM)|[Slides]()|
+|Build a Kubernetes Based Cloud Native Storage Solution From Scratch - Sheng Yang, Rancher Labs|[Video](https://www.youtube.com/watch?v=XVAZ1BM_hpM)|[Slides](https://static.sched.com/hosted_files/kccnceu19/c0/Longhorn-KubeCon_EU_2019.pdf)|
 |Hacking Helm - Paul Czarkowski, Pivotal & Scott Rigby, Codeacademy|[Video](https://www.youtube.com/watch?v=QL-OztkJ4V8)|[Slides]|
-|Strategies to "Kubernetify" Legacy Applications - Sai Vennam, IBM|[Video](https://www.youtube.com/watch?v=mMk6hvgv-NI)|[Slides]|
+|Strategies to "Kubernetify" Legacy Applications - Sai Vennam, IBM|[Video](https://www.youtube.com/watch?v=mMk6hvgv-NI)|[Slides](https://static.sched.com/hosted_files/kccnceu19/d5/Strategies%20To%20Kubernetify%20v2.pdf)|
+|Infrastructure as Software - Paul Jones, Dyson|[Video](https://www.youtube.com/watch?v=hGhrgqHbluw)|[Slides](https://static.sched.com/hosted_files/kccnceu19/43/Infrastructure%20as%20Software.pdf)|
+|Managing CRDs and Operators in Practice - Zhen Zhang, Alibaba & Wei Guo, Ant Financial|[Video](https://www.youtube.com/watch?v=yhtG6vGdTAM)|[Slides](https://static.sched.com/hosted_files/kccnceu19/b4/Manage%20CRDs%20and%20Operators%20in%20Practice.pdf)|
+|You Might Just be a Functional Programmer Now - Cornelia Davis, Pivotal|[Video](https://www.youtube.com/watch?v=R5u0EsTNeg8)|[Slides]|
+|Chaos Debugging: Finding and Fixing Microservice Weak Points - Idit Levine & Mitch Kelley, Solo.io|[Video](https://www.youtube.com/watch?v=jkcFFr8lLTA)|[Slides]()|
+|Sharing is Caring: Your Kubernetes Cluster, Namespaces, and You - Amy Chen & Eryn Muetzel, VMware|[Video](https://www.youtube.com/watch?v=_VNv7jBh1XA)|[Slides](https://static.sched.com/hosted_files/kccnceu19/c9/Sharing%20is%20Caring%20-%20Kubecon%20EU%202019.pdf)|
+|Building and Maintaining a Client Library - Stories From the Trenches - Jussi Nummelin, Kontena Inc.|[Video](https://www.youtube.com/watch?v=uCgFETEdC80)|[Slides](https://static.sched.com/hosted_files/kccnceu19/23/KubeCon-Kube-Api-Client-Experiences_v2.pdf)|
+|Microservices for the Masses – Integrating a Distributed OS with Kubernetes - Quinton Hoole, Futurewei & Irene Zhang, Microsoft Research & University of Washington|[Video]|[Slides](https://static.sched.com/hosted_files/kccnceu19/56/Microservices-for-the-masses-Quinton-and-Irene.pdf)|
 
 
-
-
-
-
+## Case Studies
+| Topic       |      Video     |  Presentation |
+| ------------- |:-------------:| -----: |
 |The Multicluster Toolbox - Adrien Trouillaud, Admiralty|[Video](https://www.youtube.com/watch?v=Fv2PKKDgjIQ&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=33&t=0s)|[Slides]()|
 |Intro: TUF / Notary - Justin Cappos, NYU & Justin Cormack, Docker|[Video](https://www.youtube.com/watch?v=gIFRQObHbZk&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=34&t=0s)|-|
 |Intro: KubeEdge - Cindy Xing, Futurewei & Dejan Bosanac, Red Hat|[Video](https://www.youtube.com/watch?v=pdqlANkpOMs&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=35&t=0s)|-|
@@ -212,7 +229,7 @@ KubeCon EU'19 Videos and Presentations
 |Deep Dive: Service Catalog SIG - Jonathan Berkhahn, IBM|[Video](https://www.youtube.com/watch?v=gShSKQErIgw)|-|
 |Deep Dive: Rook - Jared Watts & Bassam Tabbara, Upbound|[Video](https://www.youtube.com/watch?v=ngVXcLXvcfo)|-|
 |Deep Dive: Open Policy Agent - Torin Sandall & Tim Hinrichs, Styra|[Video](https://www.youtube.com/watch?v=n94_FNhuzy4)|-|
-|Managing CRDs and Operators in Practice - Zhen Zhang, Alibaba & Wei Guo, Ant Financial|[Video](https://www.youtube.com/watch?v=yhtG6vGdTAM)|-|
+
 |Grow with Less Pains - Meshing From Monolith to Microservices - Leo LIang|[Video](https://www.youtube.com/watch?v=sNRpfAZxD-A)|-|
 
 |Kubernetes Storage 101 - Jan Šafránek, Red Hat & David Zhu, Google|[Video](https://www.youtube.com/watch?v=_qfSzrPn9Cs)|-|
@@ -264,7 +281,6 @@ KubeCon EU'19 Videos and Presentations
 |The Story of Why We Migrate to gRPC and How We Go About It - Matthias Grüter, Spotify|[Video](https://www.youtube.com/watch?v=fMq3IpPE3TU)|-|
 |Create Visually Compelling Developer Experiences for Kubernetes on VS Code - Ivan Towlson|[Video](https://www.youtube.com/watch?v=fOvpMfunD4s)|-|
 |10 Ways to Shoot Yourself in the Foot with Kubernetes, #9 Will Surprise You - Laurent Bernaille|[Video](https://www.youtube.com/watch?v=QKI-JRs2RIE)|-|
-|Infrastructure as Software - Paul Jones, Dyson|[Video](https://www.youtube.com/watch?v=hGhrgqHbluw)|-|
 
 
 |From New Cluster to Insight. Deploying Monitoring and Logging to Kubernetes - Eddie Zaneski|[Video](https://www.youtube.com/watch?v=sR3jxSXY7A4)|-|
@@ -297,10 +313,10 @@ KubeCon EU'19 Videos and Presentations
 |Network Machinery: A United-Front for Network Troubleshooting with CRDs - Adel Zaalouk, SAP|[Video](https://www.youtube.com/watch?v=JsJoRkmzoa0)|-|
 |Deep Dive: Network Service Mesh (NSM) - Nikolay Nikolaev, VMware & Frederick Kautz, Doc.ai|[Video](https://www.youtube.com/watch?v=AWHkn_dqAUA)|-|
 |Deep Dive: CNCF Security SIG – Justin Cappos, New York University & Zhipeng Huang, Huawei|[Video](https://www.youtube.com/watch?v=EF3nl80kpm4)|-|
-|Cross-Cluster Calls Made Easy with Istio 1.1 - Matt Turner, Tetrate|[Video](https://www.youtube.com/watch?v=FiMSr-fOFKU)|-|
-|Networking the Service Mesh Proxy: Where We Are, Where We’re Going - Tim Swanson & John Joyce, Cisco|[Video](https://www.youtube.com/watch?v=rUB-IBZcBwY)|-|
+
+
 |Serverless Operations: From Dev to Production - Erwin van Eyk, Platform9|[Video](https://www.youtube.com/watch?v=5ftE6LBdkGY)|-|
-|Chaos Debugging: Finding and Fixing Microservice Weak Points - Idit Levine & Mitch Kelley, Solo.io|[Video](https://www.youtube.com/watch?v=jkcFFr8lLTA)|-|
+
 |5 Simple Steps To Simplifying Your Compliance Journey With a Service Mesh – Granville Schmidt|[Video](https://www.youtube.com/watch?v=BGqWrdfZEMM)|-|
 |Fool-Proof Kubernetes Dashboards for Sleep-Deprived Oncalls - David Kaltschmidt, Grafana Labs|[Video](https://www.youtube.com/watch?v=YE2aQFiMGfY)|-|
 |Secrets Store CSI Driver-Bring Your Own Enterprise Secrets Store to K8s - Rita Zhang|[Video](https://www.youtube.com/watch?v=bIC4kLnrKN0)|-|
@@ -310,10 +326,10 @@ KubeCon EU'19 Videos and Presentations
 |DIY Pen-Testing for Your Kubernetes Cluster - Liz Rice, Aqua Security|[Video](https://www.youtube.com/watch?v=fVqCAUJiIn0)|-|
 |How Does Google Release Kubernetes in GKE - Kobi Magnezi & Josh Hoak, Google|[Video](https://www.youtube.com/watch?v=6D5JMFqlov4)|-|
 |Istio on Knative Lessons Learned: How Istio is Fit for Serverless Platform - Ying Chun Guo|[Video](https://www.youtube.com/watch?v=DN7chnOM0g0)|-|
-|Sharing is Caring: Your Kubernetes Cluster, Namespaces, and You - Amy Chen & Eryn Muetzel, VMware|[Video](https://www.youtube.com/watch?v=_VNv7jBh1XA)|-|
-|Helm 3: Navigating To Distant Shores - Bridget Kromhout & Jessica Deen, Microsoft|[Video](https://www.youtube.com/watch?v=lYzrhzLAxUI)|-|
+
+
 |Grafana Loki: Like Prometheus, But for logs. - Tom Wilkie, Grafana Labs|[Video](https://www.youtube.com/watch?v=CQiawXlgabQ)|-|
-|You Might Just be a Functional Programmer Now - Cornelia Davis, Pivotal|[Video](https://www.youtube.com/watch?v=R5u0EsTNeg8)|-|
+
 |Intro + Deep Dive: Kubernetes Conformance WG - Dan Kohn, CNCF, William Denniss, Aaron Crickenberger|[Video](https://www.youtube.com/watch?v=u8AlHpJwv6Q)|-|
 |Deep Dive: Long Term Support WG - Tim Pepper, VMware|[Video](https://www.youtube.com/watch?v=yJhENGXNpVU)|-|
 |Deep Dive: Auth SIG - Mo Khan & Matt Rogers, Red Hat|[Video](https://www.youtube.com/watch?v=-2xcNjKLU9E)|-|
@@ -327,8 +343,8 @@ KubeCon EU'19 Videos and Presentations
 |Public Technical Oversight Committee (TOC) Meeting - Moderated by Chris Aniszczyk, CNCF|[Video](https://www.youtube.com/watch?v=YdwX-DAlGGY)|-|
 |Deep Dive: Envoy - Lizan Zhou, Tetrate|[Video](https://www.youtube.com/watch?v=spzfupads2o)|-|
 |Delivering Serverless Experience on Kubernetes: Beyond Web Applications - Alex Glikson|[Video](https://www.youtube.com/watch?v=VCGlGlBdr-o)|-|
-|Building and Maintaining a Client Library - Stories From the Trenches - Jussi Nummelin, Kontena Inc.|[Video](https://www.youtube.com/watch?v=uCgFETEdC80)|-|
-|Dealing with the Pesky Path Parameter Problem: Service Profiles - Alex Leong, Buoyant|[Video](https://www.youtube.com/watch?v=yJ1AXO3eH10)|-|
+
+
 |How LivePerson is Tailoring its Conversational Platform Using OpenFaaS - Simon Pelczer|[Video](https://www.youtube.com/watch?v=bt06Z28uzPA)|-|
 |Managing Edge Computing with Serverless - Lev Radomislensky, Iguazio|[Video](https://www.youtube.com/watch?v=S7W5Vgcpi2s)|-|
 |Ouch! What I Learned From Being Hit by a Serverless, Ruby Boomerang! - Ewan Slater, Oracle|[Video](https://www.youtube.com/watch?v=qRI4cE2JefQ)|-|
