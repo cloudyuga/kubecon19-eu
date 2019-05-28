@@ -136,8 +136,7 @@ KubeCon EU'19 Videos and Presentations
 |How We Used Kubernetes to Host a Capture the Flag (CTF) - Ariel Zelivansky & Liron Levin, Twistlock|[Video](https://www.youtube.com/watch?v=kUmaKvxdfvg)|[Slides](https://static.sched.com/hosted_files/kccnceu19/6b/kubecon%20talk.pdf)|
 |The Story of Why We Migrate to gRPC and How We Go About It - Matthias Grüter, Spotify|[Video](https://www.youtube.com/watch?v=fMq3IpPE3TU)|[Slides]()|
 |Deconstructing Apache Hadoop: A Dialogue About a Cloud-Native Refactor - Anu Engineer & Marton Elek, Cloudera|[Video](https://www.youtube.com/watch?v=-LQDbT_HSfo)|[Slides](https://static.sched.com/hosted_files/kccnceu19/06/Cloud-native%20refactor.pdf)|
-|10 Ways to Shoot Yourself in the Foot with Kubernetes, #9 Will Surprise You - Laurent Bernaille & Robert Boll, Datadog
- |[Video](https://www.youtube.com/watch?v=QKI-JRs2RIE)|[Slides]|
+|10 Ways to Shoot Yourself in the Foot with Kubernetes, #9 Will Surprise You - Laurent Bernaille & Robert Boll, Datadog|[Video](https://www.youtube.com/watch?v=QKI-JRs2RIE)|[Slides]|
 |Running Kubernetes on Ephemeral Infrastructure - Greg DeArment & Vlad Ungureanu, Palantir Technologies|[Video](https://www.youtube.com/watch?v=7zUsc2zI5o8)|[Slides](https://static.sched.com/hosted_files/kccnceu19/69/palantir-kubecon19_k8s%20on%20ephemeral%20infrastructure.pdf)|
 |Scaling Edge Operations at Onefootball with Ambassador: From 0 to 6000 rps - Jonathan Juares Beber & Rodrigo Del Monte, Onefootball GmbH|[Video](https://www.youtube.com/watch?v=07RvO4AChHE)|[Slides](https://static.sched.com/hosted_files/kccnceu19/78/Kubecon%20-%20onefootball.pdf)|
 |Embracing Upstream Kubernetes in Web Scale Organization - Lei Zhang, Alibaba & Jun Chen, Ant Financial|[Video](https://www.youtube.com/watch?v=ptOLV2wjQUw)|[Slides](https://static.sched.com/hosted_files/kccnceu19/3f/kubecon-speak.pdf)|
@@ -163,7 +162,6 @@ KubeCon EU'19 Videos and Presentations
 
 | Topic       |      Video     |  Presentation |
 | ------------- |:-------------:| -----: |
-
 |Intro: TUF / Notary - Justin Cappos, NYU & Justin Cormack, Docker|[Video](https://www.youtube.com/watch?v=gIFRQObHbZk&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=34&t=0s)|-|
 |Intro: KubeEdge - Cindy Xing, Futurewei & Dejan Bosanac, Red Hat|[Video](https://www.youtube.com/watch?v=pdqlANkpOMs&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=35&t=0s)|-|
 |Intro: SPIFFE - Emiliano Bernbaum & Scott Emmons, Scytale|[Video](https://www.youtube.com/watch?v=Rx6PMptyEtg&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=36&t=0s)|-|
