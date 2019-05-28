@@ -36,11 +36,16 @@ KubeCon EU'19 Videos and Presentations
 |Keynote: Welcome Remarks - Janet Kuo, Software Engineer, Google|
 
 
+| Topic       |      Video     |  Presentation |
+| ------------- |:-------------:| -----: |
 |KubeFlow BoF: David Aronchick, Microsoft & Yaron Haviv, Iguazio|[Video](https://www.youtube.com/watch?v=27jfFO1ym7Q&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=25&t=0s)|-|
 |BoF Deep Dive: Chaos Engineering - Sylvain Hellegouarch, ChaosIQ|[Video](https://www.youtube.com/watch?v=Qus15C5vT5Y&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=26&t=0s)|-|
-|Tutorial: Introduction to Kubeflow Pipelines - Michelle Casbon, Dan Sanche, Dan Anghel|[Video](https://www.youtube.com/watch?v=vDSmAaRB07M&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=27&t=0s)|-|
-|Tutorial: Back to Basics: Hands-On Deployment of Stateful Workloads on Kubernetes - David Zhu|[Video](https://www.youtube.com/watch?v=ZvUvCA_SbJI&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=28&t=0s)|-|
-|Using K8s Audit Logs to Secure Your Cluster - Mark Stemm, Sysdig|[Video](https://www.youtube.com/watch?v=h0h9QWhGFS4&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=29&t=0s)|-|
+|Tutorial: Introduction to Kubeflow Pipelines - Michelle Casbon, Dan Sanche, Dan Anghel|[Video](https://www.youtube.com/watch?v=vDSmAaRB07M&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=27&t=0s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/a5/Kccnceu19%20Casbon%20V3.pdf)|
+|Tutorial: Back to Basics: Hands-On Deployment of Stateful Workloads on Kubernetes - David Zhu|[Video](https://www.youtube.com/watch?v=ZvUvCA_SbJI&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=28&t=0s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/7c/Hands-On%20Deployment%20of%20Stateful%20Workloads%20on%20Kubernetes.pdf)|
+|Using K8s Audit Logs to Secure Your Cluster - Mark Stemm, Sysdig|[Video](https://www.youtube.com/watch?v=h0h9QWhGFS4&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=29&t=0s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/ca/K8s-Audit-Logs-KubeconEU-2019.pdf)|
+
+| Topic       |      Video     |  Presentation |
+| ------------- |:-------------:| -----: |
 |Panel Discussion: GitOps & Best Practices for Cloud Native CI/CD|[Video](https://www.youtube.com/watch?v=uvbaxC1Dexc&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=30&t=0s)|-|
 |Kubernetes Failure Stories and How to Crash Your Clusters - Henning Jacobs, Zalando SE|[Video](https://www.youtube.com/watch?v=6sDTB4eV4F8&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=31&t=0s)|-|
 |Istio, We Have a Problem! Understanding and Fixing Bugs with a Service-Mesh - David Gageot, Google|[Video](https://www.youtube.com/watch?v=9CQ0PMiOGhg&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=32&t=0s)|-|
