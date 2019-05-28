@@ -144,7 +144,6 @@ KubeCon EU'19 Videos and Presentations
 |Intro: KubeEdge - Cindy Xing, Futurewei & Dejan Bosanac, Red Hat|[Video](https://www.youtube.com/watch?v=pdqlANkpOMs&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=35&t=0s)|-|
 |Intro: SPIFFE - Emiliano Bernbaum & Scott Emmons, Scytale|[Video](https://www.youtube.com/watch?v=Rx6PMptyEtg&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=36&t=0s)|-|
 |P2P Docker Image Distribution in Hybrid Cloud Environment with Kraken - Yiran Wang & Cody Gibb, Uber|[Video](https://www.youtube.com/watch?v=waVtYYSXkXU&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=37&t=0s)|-|
-
 |Portable, Universal Single Sign-On for Your Clusters - Miguel Martinez, Bitnami|[Video](https://www.youtube.com/watch?v=p5x1btmD2Yw&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=39&t=0s)|-|
 |Kubernetes the New Research Platform - Lindsey Tulloch & Bob Killen|[Video](https://www.youtube.com/watch?v=E09XTOWbBKw&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=40&t=0s)|-|
 |Intro: Cluster Lifecycle SIG - Lucas Käldström, Independent & Tim St. Clair, VMware|[Video](https://www.youtube.com/watch?v=bA2M41J4wvg&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=41&t=0s)|-|
