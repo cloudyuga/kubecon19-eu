@@ -158,6 +158,19 @@ KubeCon EU'19 Videos and Presentations
 |Keep the Space Shuttle Flying: Writing Robust Operators - Illya Chekrygin, Upbound|[Video](https://www.youtube.com/watch?v=uf97lOApOv8)|[Slides](https://static.sched.com/hosted_files/kccnceu19/1b/Writing%20Robust%20Operators.pdf)|
 |Extending Knative for Fun and Profit - Matt Moore & Ville Aikas, Google|[Video](https://www.youtube.com/watch?v=Mb8c5SP-Sw0)|[Slides](https://static.sched.com/hosted_files/kccnceu19/ba/what-the-duck.pdf)|
 
+## Machine Learning and Data
+| Topic       |      Video     |  Presentation |
+| ------------- |:-------------:| -----: |
+|GPU Machine Learning From Laptop to Cloud - Mark Puddick, Pivotal|[Video](https://www.youtube.com/watch?v=QwhvD6Zkzc4)|[Slides](https://static.sched.com/hosted_files/kccnceu19/ba/Kubecon.pdf)|
+|Towards Kubeflow 1.0, Bringing a Cloud Native Platform For ML to Kubernetes - David Aronchick, Microsoft & Jeremy Lewi, Google|[Video](https://www.youtube.com/watch?v=7RBD0hXyLW8)|[Slides](https://static.sched.com/hosted_files/kccnceu19/f1/_%5Bshared%5D%20Road%20to%20Kubeflow%201.0%20-%20Kubecon%20Barcelona%202019.pdf)|
+|Building Cross-Cloud ML Pipelines with Kubeflow with Spark & Tensorflow - Holden Karau, Google & Trevor Grant, IBM|[Video](https://www.youtube.com/watch?v=jdBbFSghM2s)|[Slides]|
+|Large Scale Distributed Deep Learning with Kubernetes Operators - Yuan Tang, Ant Financial & Yong Tang, MobileIron|[Video](https://www.youtube.com/watch?v=jyLi1cfJeM8)|[Slides](https://static.sched.com/hosted_files/kccnceu19/3c/KubeCon%20-%20Barcelona%20-%20Deep%20Learning.pdf)|
+|The Data Analytics Platform or How to Make Data Science in a Box Possible - Krzysztof Adamski & Rob Keevil, ING|[Video](https://www.youtube.com/watch?v=8cE9ppbnDPs)|[Slides](https://static.sched.com/hosted_files/kccnceu19/65/ING%20Data%20Analytics%20Platform.pdf)|
+|A Tale of Two Worlds: Canary-Testing for Both ML Models and Microservices - Jörg Schad, ArangoDB & Vincent Lesierse, Vamp.io|[Video](https://www.youtube.com/watch?v=ctATGBxDzRg)|[Slides](https://static.sched.com/hosted_files/kccnceu19/66/A%20Tale%20of%20two%20worlds%20%282%29.pdf)|
+|Economics and Best Practices of Running AI/ML Workloads on Kubernetes - Maulin Patel, Google & Yaron Haviv, Iguazio|[Video](https://www.youtube.com/watch?v=qO5j86qMcck)|[Slides](https://static.sched.com/hosted_files/kccnceu19/9a/Draft_Kubecon_slides.pdf)|
+|Scaling and Securing Spark on Kubernetes at Bloomberg - Ilan Filonenko, Bloomberg|[Video](https://www.youtube.com/watch?v=GbpMOaSlMJ4)|[Slides](https://static.sched.com/hosted_files/kccnceu19/1e/Scaling%20and%20Securing%20Spark%20on%20Kubernetes%20at%20Bloomberg.pdf)|
+
+
 ## MORE TOPIC 
 
 | Topic       |      Video     |  Presentation |
@@ -281,7 +294,7 @@ KubeCon EU'19 Videos and Presentations
 |Co-Evolution of Kubernetes and GCP Networking - Purvi Desai & Tim Hockin, Google|[Video](https://www.youtube.com/watch?v=eBKouNho5t4)|-|
 |gRPC load balancing and Service Mesh - Vishal Powar, Google|[Video](https://www.youtube.com/watch?v=FuXnfGHUZcU)|-|
 |Treating Network Assets as Scheduleable Resources - Vinothkumar Siddharth, Amazon|[Video](https://www.youtube.com/watch?v=8sshP-KA5zc)|-|
-|GPU Machine Learning From Laptop to Cloud - Mark Puddick, Pivotal|[Video](https://www.youtube.com/watch?v=QwhvD6Zkzc4)|-|
+
 |Caller ID in Kubernetes - Michael Danese, Google|[Video](https://www.youtube.com/watch?v=A4geWDqKNYw)|-|
 |Migrating South East Asia's Biggest Payments Company to Kubernetes - Akashdeep Singh|[Video](https://www.youtube.com/watch?v=eYb--4iOSCY)|-|
 |The Serverless Landscape and Event Driven Futures - Dee Kumar, CNCF|[Video](https://www.youtube.com/watch?v=feo-UUPyzSI)|-|
@@ -392,7 +405,7 @@ KubeCon EU'19 Videos and Presentations
 |Let's Try Every CRI Runtime Available for Kubernetes. No, Really! - Phil Estes, IBM|[Video](https://www.youtube.com/watch?v=FKoVztEQHss)|-|
 |Lessons Learned Migrating Kubernetes from Docker to containerd Runtime - Ana Calin, Paybase|[Video](https://www.youtube.com/watch?v=uDOu6rK4yOk)|-|
 |Tailor-Made Security: Building a Kubernetes Specific Hypervisor - Samuel Ortiz & Andreea Florescu|[Video](https://www.youtube.com/watch?v=t41Bh_sIVDQ)|-|
-|Scaling and Securing Spark on Kubernetes at Bloomberg - Ilan Filonenko, Bloomberg|[Video](https://www.youtube.com/watch?v=GbpMOaSlMJ4)|-|
+
 |Economics and Best Practices of Running AI/ML Workloads on Kubernetes - Maulin Patel|[Video](https://www.youtube.com/watch?v=qO5j86qMcck)|-|
 |Moving People and Products with Machine Learning on Kubeflow - Jeremy Lewi, Google & Willem Pienaar|[Video](https://www.youtube.com/watch?v=-GYiatVNemY)|-|
 |A Tale of Two Worlds: Canary-Testing for Both ML Models and Microservices - Jörg Schad|[Video](https://www.youtube.com/watch?v=ctATGBxDzRg)|-|
