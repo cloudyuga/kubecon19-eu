@@ -293,14 +293,29 @@ KubeCon EU'19 Videos and Presentations
 |Co-Evolution of Kubernetes and GCP Networking - Purvi Desai & Tim Hockin, Google|[Video](https://www.youtube.com/watch?v=eBKouNho5t4)|[Slides](https://static.sched.com/hosted_files/kccnceu19/94/KubeCon-Europe-2019%20-%20Co-Evolution%20of%20Kubernetes%20and%20GCP%20Networking.pdf)|
 |Going from 5s to 5ms: Benefits of a Node-Local DNSCache - Pavithra Ramesh & Blake Barnett|[Video](https://www.youtube.com/watch?v=XbkViBUuScE)|[Slides](https://static.sched.com/hosted_files/kccnceu19/4b/KubeCon-Europe-2019-nodelocaldns.pdf)|
  
+## Observability
+| Topic       |      Video     |  Presentation |
+| ------------- |:-------------:| -----: |
+|M3 and Prometheus, Monitoring at Planet Scale for Everyone - Rob Skillington, Uber|[Video](https://www.youtube.com/watch?v=EFutyuIpFXQ)|[Slides](https://static.sched.com/hosted_files/kccnceu19/e0/M3%20and%20Prometheus%2C%20Monitoring%20at%20Planet%20Scale%20for%20Everyone.pdf)|
+|From New Cluster to Insight. Deploying Monitoring and Logging to Kubernetes - Eddie Zaneski|[Video](https://www.youtube.com/watch?v=sR3jxSXY7A4)|[Slides](https://static.sched.com/hosted_files/kccnceu19/46/KubeCon%20EU%202019.pdf)|
+|Deep Dive: Kubernetes Metric APIs using Prometheus - Matthias Loibl & Sergiusz Urbaniak, Red Hat|[Video](https://www.youtube.com/watch?v=cIoOAbzhR7k)|[Slides](https://static.sched.com/hosted_files/kccnceu19/55/Kuberentes%27%20Metrics%20API%20-%20Past%2C%20Present%20and%20Future.pdf)|
+|What's the Performance Overhead? Answering the Biggest Question in Tracing - Gabriela Soria|[Video](https://www.youtube.com/watch?v=8GjwYU2MbgM)|[Slides](https://static.sched.com/hosted_files/kccnceu19/2c/What%27s%20the%20Performance%20Overhead%3F%20-%20Answering%20the%20Biggest%20Question%20in%20Tracing.pdf)|
+|Tracing is More Than Traces: The Insights in Trace Aggregates - Daniela Miao, LightStep|[Video](https://www.youtube.com/watch?v=mzTTYzIzzkk)|[Slides](https://static.sched.com/hosted_files/kccnceu19/30/TraceAggregatesKubecon%20Barcelona%205_22.pdf)|
+|Fluent Bit: Extending Your Logging Pipeline with Go - Warren Fernandes & Jason Keene, Pivotal|[Video](https://www.youtube.com/watch?v=oL6WovwwxrY)|[Slides](https://static.sched.com/hosted_files/kccnceu19/36/fluent-bit-talk-may21.key)|
+|Autoscaling Multi-Cluster Observability with Thanos and Linkerd - Andrew Seigner & Frederic Branczyk|[Video](https://www.youtube.com/watch?v=qTxunwzYO0g)|[Slides](https://static.sched.com/hosted_files/kccnceu19/e9/Autoscaling%20Multi-Cluster%20Observability%20with%20Thanos%20and%20Linkerd.pdf)|
+|Grafana Loki: Like Prometheus, But for logs. - Tom Wilkie, Grafana Labs|[Video](https://www.youtube.com/watch?v=CQiawXlgabQ)|[Slides](https://static.sched.com/hosted_files/kccnceu19/31/Grafana%20Loki.pdf)|
+|Deploy, Scale and Extend Jaeger - Louis-Etienne Dorval, Ticketmaster|[Video](https://www.youtube.com/watch?v=JloanFIc-ms)|[Slides](https://static.sched.com/hosted_files/kccnceu19/b3/Deploy%2C%20Scale%20and%20Extend%20Jaeger%202019.pdf)|
+|Network Observability with IPFIX, Prometheus and Elastic Stack - Rastislav Szabo|[Video](https://www.youtube.com/watch?v=sj7pmz5sutE)|[Slides](https://static.sched.com/hosted_files/kccnceu19/15/Observability_k8s_IPFIX.pdf)|
+|Monitoring Service Architecture and Health with BPF - Jonathan Perry, Flowmill, Inc.|[Video](https://www.youtube.com/watch?v=J2NWvh3lgJI)|[Slides](https://static.sched.com/hosted_files/kccnceu19/9a/Monitoring%20Service%20Architecture%20and%20Health%20with%20BPF.pdf)|
+|Fool-Proof Kubernetes Dashboards for Sleep-Deprived Oncalls - David Kaltschmidt, Grafana Labs|[Video](https://www.youtube.com/watch?v=YE2aQFiMGfY)|[Slides](https://static.sched.com/hosted_files/kccnceu19/27/Kubecon%202019_%20Kubernetes%20dashboards%20final.pdf)|
 
-## MORE TOPIC 
+
+## MORE TOPICs 
 
 | Topic       |      Video     |  Presentation |
 | ------------- |:-------------:| -----: |
 |Public Technical Oversight Committee (TOC) Meeting - Moderated by Chris Aniszczyk, CNCF|[Video](https://www.youtube.com/watch?v=YdwX-DAlGGY)|-|
 |Ready? A Deep Dive into Pod Readiness Gates for Service Health... - Minhan Xia & Ping Zou|[Video](https://www.youtube.com/watch?v=Vw9GmSeomFg)|-|
-|Deep Dive: Kubernetes Metric APIs using Prometheus - Matthias Loibl & Sergiusz Urbaniak, Red Hat|[Video](https://www.youtube.com/watch?v=cIoOAbzhR7k)|-|
 |Extending Envoy with WebAssembly - John Plevyak & Dhi Aurrahman, Tetrate|[Video](https://www.youtube.com/watch?v=XdWmm_mtVXI&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=81&t=0s)|-|
 |Envoy SDS: Fortifying Istio Security - Yonggang Liu & Quanjie Lin, Google|[Video](https://www.youtube.com/watch?v=QlQyqCaTOh0&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=54&t=0s)|-|
 |P2P Docker Image Distribution in Hybrid Cloud Environment with Kraken - Yiran Wang & Cody Gibb, Uber|[Video](https://www.youtube.com/watch?v=waVtYYSXkXU&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=37&t=0s)|-|
@@ -327,9 +342,6 @@ KubeCon EU'19 Videos and Presentations
 |Democratizing Service Mesh on Kubernetes - Gabe Monroy, Microsoft & CNCF Board Member|[Video](https://www.youtube.com/watch?v=gDLD8gyd7J8)|-|
 |OpenTelemetry: Backwards Compatibility with... - Ben Sigelman, Bogdan Drutu & Spiros Xanthos|[Video](https://www.youtube.com/watch?v=mvWwSkBq9sY)|-|
 |OpenTelemetry: Panel Discussion and Q&A - Ben Sigelman, Morgan McClean & Bogdan Drutu|[Video](https://www.youtube.com/watch?v=IdYZphA5S7s)|-|
-|Fluent Bit: Extending Your Logging Pipeline with Go - Warren Fernandes & Jason Keene, Pivotal|[Video](https://www.youtube.com/watch?v=oL6WovwwxrY)|-|
-|Tracing is More Than Traces: The Insights in Trace Aggregates - Daniela Miao, LightStep|[Video](https://www.youtube.com/watch?v=mzTTYzIzzkk)|-|
-|What's the Performance Overhead? Answering the Biggest Question in Tracing - Gabriela Soria|[Video](https://www.youtube.com/watch?v=8GjwYU2MbgM)|-|
 |Building Cross-Cloud ML Pipelines with Kubeflow with Spark & Tensorflow - Holden Karau|[Video](https://www.youtube.com/watch?v=jdBbFSghM2s)|-|
 |JustFootball’s Journey to gRPC + Linkerd in Production - Ben Lambert, & Kevin Lingerfelt|[Video](https://www.youtube.com/watch?v=AxPfa7Mp_WY)|-|
 |Panel Discussion: Multi-Tenancy in Kubernetes: Current State and Future Roadmap|[Video](https://www.youtube.com/watch?v=GCd6mIFD0zQ)|-|
@@ -360,8 +372,6 @@ KubeCon EU'19 Videos and Presentations
 |Improving Availability for Stateful Applications in Kubernetes - Michelle Au, Google|[Video](https://www.youtube.com/watch?v=Cd7aJiQLIpM)|-|
 |Create Visually Compelling Developer Experiences for Kubernetes on VS Code - Ivan Towlson|[Video](https://www.youtube.com/watch?v=fOvpMfunD4s)|-|
 |10 Ways to Shoot Yourself in the Foot with Kubernetes, #9 Will Surprise You - Laurent Bernaille|[Video](https://www.youtube.com/watch?v=QKI-JRs2RIE)|-|
-|From New Cluster to Insight. Deploying Monitoring and Logging to Kubernetes - Eddie Zaneski|[Video](https://www.youtube.com/watch?v=sR3jxSXY7A4)|-|
-|M3 and Prometheus, Monitoring at Planet Scale for Everyone - Rob Skillington, Uber|[Video](https://www.youtube.com/watch?v=EFutyuIpFXQ)|-|
 |Lifecycle of a kubectl Command: Harden Kubernetes Setup with Automation - Sanjary Rahman|[Video](https://www.youtube.com/watch?v=vHGnL0vSr4E)|-|
 |The Spotify Story: Moving from NIH to an Active CNCF Community Member - Jim Haughwout, Spotify|[Video](https://www.youtube.com/watch?v=OWq0X7OSCBQ)|-|
 |A Kubernetes Application End-to-End: DevStats - ukasz Gryglicki, CNCF & Josh Berkus, Red Hat|[Video](https://www.youtube.com/watch?v=U2PTifzzKNE)|-|
@@ -378,7 +388,6 @@ KubeCon EU'19 Videos and Presentations
 |Network Machinery: A United-Front for Network Troubleshooting with CRDs - Adel Zaalouk, SAP|[Video](https://www.youtube.com/watch?v=JsJoRkmzoa0)|-|
 |Serverless Operations: From Dev to Production - Erwin van Eyk, Platform9|[Video](https://www.youtube.com/watch?v=5ftE6LBdkGY)|-|
 |5 Simple Steps To Simplifying Your Compliance Journey With a Service Mesh – Granville Schmidt|[Video](https://www.youtube.com/watch?v=BGqWrdfZEMM)|-|
-|Fool-Proof Kubernetes Dashboards for Sleep-Deprived Oncalls - David Kaltschmidt, Grafana Labs|[Video](https://www.youtube.com/watch?v=YE2aQFiMGfY)|-|
 |Secrets Store CSI Driver-Bring Your Own Enterprise Secrets Store to K8s - Rita Zhang|[Video](https://www.youtube.com/watch?v=bIC4kLnrKN0)|-|
 |Protecting the Data Lake - Ash Narkar, Styra, Inc|[Video](https://www.youtube.com/watch?v=9m4FymEvOqM)|-|
 |Securing Multi-Cloud Cross-Cluster Communication with SPIFFE and SPIRE - Evan Gilman, Scytale, Inc.|[Video](https://www.youtube.com/watch?v=sLN11qAFAC4)|-|
@@ -386,7 +395,6 @@ KubeCon EU'19 Videos and Presentations
 |DIY Pen-Testing for Your Kubernetes Cluster - Liz Rice, Aqua Security|[Video](https://www.youtube.com/watch?v=fVqCAUJiIn0)|-|
 |How Does Google Release Kubernetes in GKE - Kobi Magnezi & Josh Hoak, Google|[Video](https://www.youtube.com/watch?v=6D5JMFqlov4)|-|
 |Istio on Knative Lessons Learned: How Istio is Fit for Serverless Platform - Ying Chun Guo|[Video](https://www.youtube.com/watch?v=DN7chnOM0g0)|-|
-|Grafana Loki: Like Prometheus, But for logs. - Tom Wilkie, Grafana Labs|[Video](https://www.youtube.com/watch?v=CQiawXlgabQ)|-|
 |Delivering Serverless Experience on Kubernetes: Beyond Web Applications - Alex Glikson|[Video](https://www.youtube.com/watch?v=VCGlGlBdr-o)|-|
 |How LivePerson is Tailoring its Conversational Platform Using OpenFaaS - Simon Pelczer|[Video](https://www.youtube.com/watch?v=bt06Z28uzPA)|-|
 |Managing Edge Computing with Serverless - Lev Radomislensky, Iguazio|[Video](https://www.youtube.com/watch?v=S7W5Vgcpi2s)|-|
@@ -407,11 +415,7 @@ KubeCon EU'19 Videos and Presentations
 |Oops!...I Did It Again — I Reinvented gRPC - Austin Lamon & Dave Zolotusky, Spotify|[Video](https://www.youtube.com/watch?v=7VFYGYAYz7k)|-|
 |How to Create Kubernetes Experts - Clarke Vennerbeck & Aaron Teague, Supergiant|[Video](https://www.youtube.com/watch?v=n6VPBUIkgqo)|-|
 |State of Kubernetes Contributor Community - Paris Pittman, Google|[Video](https://www.youtube.com/watch?v=a17FLjVDUOc)|-|
-|Monitoring Service Architecture and Health with BPF - Jonathan Perry, Flowmill, Inc.|[Video](https://www.youtube.com/watch?v=J2NWvh3lgJI)|-|
-|Network Observability with IPFIX, Prometheus and Elastic Stack - Rastislav Szabo|[Video](https://www.youtube.com/watch?v=sj7pmz5sutE)|-|
-|Deploy, Scale and Extend Jaeger - Louis-Etienne Dorval, Ticketmaster|[Video](https://www.youtube.com/watch?v=JloanFIc-ms)|-|
 |Unblocking the Release Train with Istio Traffic Management - Dave Shepherd & Pierre Meunier|[Video](https://www.youtube.com/watch?v=jJdhec4Yufo)|-|
-|Autoscaling Multi-Cluster Observability with Thanos and Linkerd - Andrew Seigner & Frederic Branczyk|[Video](https://www.youtube.com/watch?v=qTxunwzYO0g)|-|
 |Kubernetes Networking: How to Write a CNI Plugin From Scratch - Eran Yanay, Twistlock|[Video](https://www.youtube.com/watch?v=zmYxdtFzK6s)|-|
 |Reenforce Kubernetes Image Isolation in Multi-Tenant Service - Eric Lin, Alibaba|[Video](https://www.youtube.com/watch?v=s0L2jej28k4)|-|
 |Building a Controller Manager for Your Cloud Platform - Fabio Rapposelli, VMware & Chris Hoge|[Video](https://www.youtube.com/watch?v=kO7qJKPgxS0)|-|
