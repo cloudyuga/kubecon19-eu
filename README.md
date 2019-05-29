@@ -279,6 +279,21 @@ KubeCon EU'19 Videos and Presentations
 |Deep Dive: Envoy - Lizan Zhou, Tetrate|[Video](https://www.youtube.com/watch?v=spzfupads2o)|[Slides](https://static.sched.com/hosted_files/kccnceu19/bb/Envoy%20Deep%20Dive%20-%20KubeCon%20EU%20%2719.pdf)|
 |Deep Dive: API Machinery SIG - David Eads, Red Hat & Daniel Smith, Google|[Video](https://www.youtube.com/watch?v=SOvmmeVbYrs)|[Slides](https://static.sched.com/hosted_files/kccnceu19/41/API%20Machinery%20Deep%20Dive.pdf)|
 
+## Networking 
+
+| Topic       |      Video     |  Presentation |
+| ------------- |:-------------:| -----: |
+|Ingress V2 and Multicluster Services - Rohit Ramkumar & Bowei Du, Google|[Video](https://www.youtube.com/watch?v=Ne9UJL6irXY)|[Slides](https://static.sched.com/hosted_files/kccnceu19/d8/Kubecon%20EU%202019_%20Ingress%20V2%20%26%20Multi-Cluster%20Services.pdf)|
+|Extending Envoy with WebAssembly - John Plevyak & Dhi Aurrahman, Tetrate|[Video](https://www.youtube.com/watch?v=XdWmm_mtVXI&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=81&t=0s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/80/Extending%20Envoy%20with%20WebAssembly.pdf)|
+|Authentication and Security in gRPC Microservices - Jan Tattermusch, Google|[Video](https://www.youtube.com/watch?v=_ylzjdVEf0&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=67&t=0s)|[Slides]|
+|Building HA Multi-Cloud Clusters Using WireGuard as a Network Overlay - Lucas Servén Marín, Red Hat|[Video](https://www.youtube.com/watch?v=iPz_DAOOCKA)|[Slides](https://static.sched.com/hosted_files/kccnceu19/b3/KubeCon-Europe-2019.pdf)|
+|Treating Network Assets as Scheduleable Resources - Vinothkumar Siddharth, Amazon|[Video](https://www.youtube.com/watch?v=8sshP-KA5zc)|[Slides](https://static.sched.com/hosted_files/kccnceu19/99/Kubecon-EU-2019-Template-Deck.pdf)|
+|gRPC load balancing and Service Mesh - Vishal Powar, Google|[Video](https://www.youtube.com/watch?v=FuXnfGHUZcU)|[Slides](https://static.sched.com/hosted_files/kccnceu19/de/gRPC%20Load%20balancing%20ServiceMesh%20%28kubecon-19%29.pdf)|
+|Reinventing Networking: A Deep Dive into Istio's Multicluster Gateways - Steve Dake, Independent|[Video](https://www.youtube.com/watch?v=-t2BfT59zJA)|[Slides](https://static.sched.com/hosted_files/kccnceu19/95/Kubecon-Europe-Final.pdf)|
+|Co-Evolution of Kubernetes and GCP Networking - Purvi Desai & Tim Hockin, Google|[Video](https://www.youtube.com/watch?v=eBKouNho5t4)|[Slides](https://static.sched.com/hosted_files/kccnceu19/94/KubeCon-Europe-2019%20-%20Co-Evolution%20of%20Kubernetes%20and%20GCP%20Networking.pdf)|
+|Going from 5s to 5ms: Benefits of a Node-Local DNSCache - Pavithra Ramesh & Blake Barnett|[Video](https://www.youtube.com/watch?v=XbkViBUuScE)|[Slides](https://static.sched.com/hosted_files/kccnceu19/4b/KubeCon-Europe-2019-nodelocaldns.pdf)|
+ 
+
 ## MORE TOPIC 
 
 | Topic       |      Video     |  Presentation |
@@ -286,7 +301,6 @@ KubeCon EU'19 Videos and Presentations
 |Public Technical Oversight Committee (TOC) Meeting - Moderated by Chris Aniszczyk, CNCF|[Video](https://www.youtube.com/watch?v=YdwX-DAlGGY)|-|
 |Ready? A Deep Dive into Pod Readiness Gates for Service Health... - Minhan Xia & Ping Zou|[Video](https://www.youtube.com/watch?v=Vw9GmSeomFg)|-|
 |Deep Dive: Kubernetes Metric APIs using Prometheus - Matthias Loibl & Sergiusz Urbaniak, Red Hat|[Video](https://www.youtube.com/watch?v=cIoOAbzhR7k)|-|
-|Reinventing Networking: A Deep Dive into Istio's Multicluster Gateways - Steve Dake, Independent|[Video](https://www.youtube.com/watch?v=-t2BfT59zJA)|-|
 |Extending Envoy with WebAssembly - John Plevyak & Dhi Aurrahman, Tetrate|[Video](https://www.youtube.com/watch?v=XdWmm_mtVXI&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=81&t=0s)|-|
 |Envoy SDS: Fortifying Istio Security - Yonggang Liu & Quanjie Lin, Google|[Video](https://www.youtube.com/watch?v=QlQyqCaTOh0&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=54&t=0s)|-|
 |P2P Docker Image Distribution in Hybrid Cloud Environment with Kraken - Yiran Wang & Cody Gibb, Uber|[Video](https://www.youtube.com/watch?v=waVtYYSXkXU&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=37&t=0s)|-|
@@ -299,7 +313,6 @@ KubeCon EU'19 Videos and Presentations
 |Reproducible Development and Deployment with Bazel and Telepresence - Christian Roggia|[Video](https://www.youtube.com/watch?v=tD0FIlxO1AQ&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=51&t=0s)|-|
 |Scale Kubernetes Service Endpoints 100x - Minhan Xia & Wojciech Tyczynski, Google|[Video](https://www.youtube.com/watch?v=Y5JOCCbJ_Fg&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=52&t=0s)|-|
 |Es-operator: Building an Elasticsearch Operator From the Bottom Up - Mikkel Larsen, Zalando SE|[Video](https://www.youtube.com/watch?v=lprE0J0kAq0&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=66&t=0s)|-|
-|Authentication and Security in gRPC Microservices - Jan Tattermusch, Google|[Video](https://www.youtube.com/watch?v=_ylzjdVEf0&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=67&t=0s)|-|
 |Serverless is Interesting But FaaS is Not Enough - Jonas Bonér, Lightbend Inc.|[Video](https://www.youtube.com/watch?v=J3PyYmdTsnQ&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=70&t=0s)|-|
 |Writing kubectl Plugins for Everyone: Develop, Package & Distribute - Ahmet Alp Balkan|[Video](https://www.youtube.com/watch?v=83ITOTsXsHU&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=73&t=0s)|-|
 |Tutorial: A Day in the Life of a Cloud Native Developer - Randy Abernethy, RX-M, LLC|[Video](https://www.youtube.com/watch?v=YAM2d7yTrrI&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=88&t=0s)|-|
@@ -327,7 +340,6 @@ KubeCon EU'19 Videos and Presentations
 |Grow with Less Pains - Meshing From Monolith to Microservices - Leo LIang|[Video](https://www.youtube.com/watch?v=sNRpfAZxD-A)|-|
 |Kubernetes Storage 101 - Jan Šafránek, Red Hat & David Zhu, Google|[Video](https://www.youtube.com/watch?v=_qfSzrPn9Cs)|-|
 |Resize Your Pods w/o Disruptions aka How to Have a Cake and Eat a Cake - Karol Gob & Beata Skiba|[Video](https://www.youtube.com/watch?v=58uRFofXUyw)|-|
-|Building HA Multi-Cloud Clusters Using WireGuard as a Network Overlay - Lucas Servén Marín, Red Hat|[Video](https://www.youtube.com/watch?v=iPz_DAOOCKA)|-|
 |The Data Analytics Platform or How to Make Data Science in a Box Possible - Krzysztof Adamski|[Video](https://www.youtube.com/watch?v=8cE9ppbnDPs)|-|
 |Building Cloud Native GDPR Friendly Systems for Data Collection - Zsolt Homorodi, VTT|[Video](https://www.youtube.com/watch?v=sKaeOApBPsw)|-|
 |Deconstructing Apache Hadoop: A Dialogue About a Cloud-Native Refactor - Anu Engineer & Marton Elek|[Video](https://www.youtube.com/watch?v=-LQDbT_HSfo)|-|
@@ -340,15 +352,11 @@ KubeCon EU'19 Videos and Presentations
 |Benchmarking Cloud Native Databases Performance on Kubernetes - Iqbal Farabi & Tara Baskara, GO-JEK|[Video](https://www.youtube.com/watch?v=cz-eHwqtyvU)|-|
 |Data Without Borders - Using Rook Storage Orchestration at a Global Scale - Jared Watts, Upbound|[Video](https://www.youtube.com/watch?v=BUOIZawnIlk)|-|
 |Securing Cloud Native Communication, From End User to Service - Daniel Bryant & Nic Jackson|[Video](https://www.youtube.com/watch?v=o1MJi54_R4o)|-|
-|Co-Evolution of Kubernetes and GCP Networking - Purvi Desai & Tim Hockin, Google|[Video](https://www.youtube.com/watch?v=eBKouNho5t4)|-|
-|gRPC load balancing and Service Mesh - Vishal Powar, Google|[Video](https://www.youtube.com/watch?v=FuXnfGHUZcU)|-|
-|Treating Network Assets as Scheduleable Resources - Vinothkumar Siddharth, Amazon|[Video](https://www.youtube.com/watch?v=8sshP-KA5zc)|-|
 |Caller ID in Kubernetes - Michael Danese, Google|[Video](https://www.youtube.com/watch?v=A4geWDqKNYw)|-|
 |Migrating South East Asia's Biggest Payments Company to Kubernetes - Akashdeep Singh|[Video](https://www.youtube.com/watch?v=eYb--4iOSCY)|-|
 |The Serverless Landscape and Event Driven Futures - Dee Kumar, CNCF|[Video](https://www.youtube.com/watch?v=feo-UUPyzSI)|-|
 |Koping with Change: What kops Learned Adopting etcd3, cluster-api and CRDs - Justin Santa Barbara|[Video](https://www.youtube.com/watch?v=Nm26bGT6s0w)|-|
 |Restart-Free Vertical Scaling for Kubernetes Pods - Vinay Kulkarni & Peng Du, Huawei|[Video](https://www.youtube.com/watch?v=eic6kBa3QAc)|-|
-|Going from 5s to 5ms: Benefits of a Node-Local DNSCache - Pavithra Ramesh & Blake Barnett|[Video](https://www.youtube.com/watch?v=XbkViBUuScE)|-|
 |Improving Availability for Stateful Applications in Kubernetes - Michelle Au, Google|[Video](https://www.youtube.com/watch?v=Cd7aJiQLIpM)|-|
 |Create Visually Compelling Developer Experiences for Kubernetes on VS Code - Ivan Towlson|[Video](https://www.youtube.com/watch?v=fOvpMfunD4s)|-|
 |10 Ways to Shoot Yourself in the Foot with Kubernetes, #9 Will Surprise You - Laurent Bernaille|[Video](https://www.youtube.com/watch?v=QKI-JRs2RIE)|-|
@@ -423,5 +431,4 @@ KubeCon EU'19 Videos and Presentations
 |Keynote: Opening Remarks - Janet Kuo, Software Engineer, Google|[Video](https://www.youtube.com/watch?v=VljLVMMtSLk)|-|
 -|
 |Fine-Grained Permissions in Kubernetes: What’s Missing, and How to Fix That - Vallery Lancey|[Video](https://www.youtube.com/watch?v=TZ73EBP2a9Q)|-|
-|Ingress V2 and Multicluster Services - Rohit Ramkumar & Bowei Du, Google|[Video](https://www.youtube.com/watch?v=Ne9UJL6irXY)|-|
 |Panel Discussion: Leveraging Cloud Native Technology to Transform Your Enterprise|[Video](https://www.youtube.com/watch?v=0CxDZOJP6Rc)|-|
