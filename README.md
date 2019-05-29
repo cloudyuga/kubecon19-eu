@@ -304,12 +304,10 @@ KubeCon EU'19 Videos and Presentations
 |Using eBPF to Bring Kubernetes-Aware Security to the Linux Kernel - Dan Wendlandt, Isovalent|[Video](https://www.youtube.com/watch?v=7PXQB-1U380&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=50&t=0s)|-|
 |Reproducible Development and Deployment with Bazel and Telepresence - Christian Roggia|[Video](https://www.youtube.com/watch?v=tD0FIlxO1AQ&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=51&t=0s)|-|
 |Scale Kubernetes Service Endpoints 100x - Minhan Xia & Wojciech Tyczynski, Google|[Video](https://www.youtube.com/watch?v=Y5JOCCbJ_Fg&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=52&t=0s)|-|
-
 |Es-operator: Building an Elasticsearch Operator From the Bottom Up - Mikkel Larsen, Zalando SE|[Video](https://www.youtube.com/watch?v=lprE0J0kAq0&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=66&t=0s)|-|
 |Authentication and Security in gRPC Microservices - Jan Tattermusch, Google|[Video](https://www.youtube.com/watch?v=_ylzjdVEf0&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=67&t=0s)|-|
 |Serverless is Interesting But FaaS is Not Enough - Jonas Bonér, Lightbend Inc.|[Video](https://www.youtube.com/watch?v=J3PyYmdTsnQ&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=70&t=0s)|-|
 |Writing kubectl Plugins for Everyone: Develop, Package & Distribute - Ahmet Alp Balkan|[Video](https://www.youtube.com/watch?v=83ITOTsXsHU&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=73&t=0s)|-|
-
 |Tutorial: A Day in the Life of a Cloud Native Developer - Randy Abernethy, RX-M, LLC|[Video](https://www.youtube.com/watch?v=YAM2d7yTrrI&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=88&t=0s)|-|
 |From Snowflake Servers to Snowflake Clusters - The GitOps Journey - Allison Richardet|[Video](https://www.youtube.com/watch?v=VJpEuzSkkXs&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=90&t=0s)|-|
 |Panel Discussion: Ask Us Anything: Microservices and Service Mesh|[Video](https://www.youtube.com/watch?v=101xw1RN3t4&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=91&t=0s)|-|
@@ -351,7 +349,6 @@ KubeCon EU'19 Videos and Presentations
 |Co-Evolution of Kubernetes and GCP Networking - Purvi Desai & Tim Hockin, Google|[Video](https://www.youtube.com/watch?v=eBKouNho5t4)|-|
 |gRPC load balancing and Service Mesh - Vishal Powar, Google|[Video](https://www.youtube.com/watch?v=FuXnfGHUZcU)|-|
 |Treating Network Assets as Scheduleable Resources - Vinothkumar Siddharth, Amazon|[Video](https://www.youtube.com/watch?v=8sshP-KA5zc)|-|
-
 |Caller ID in Kubernetes - Michael Danese, Google|[Video](https://www.youtube.com/watch?v=A4geWDqKNYw)|-|
 |Migrating South East Asia's Biggest Payments Company to Kubernetes - Akashdeep Singh|[Video](https://www.youtube.com/watch?v=eYb--4iOSCY)|-|
 |The Serverless Landscape and Event Driven Futures - Dee Kumar, CNCF|[Video](https://www.youtube.com/watch?v=feo-UUPyzSI)|-|
