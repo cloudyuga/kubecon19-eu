@@ -321,7 +321,6 @@ KubeCon EU'19 Videos and Presentations
 |Migrating South East Asia's Biggest Payments Company to Kubernetes - Akashdeep Singh|[Video](https://www.youtube.com/watch?v=eYb--4iOSCY)|[Slides](https://static.sched.com/hosted_files/kccnceu19/e5/Migrating%20South%20East%20Asia’s%20Biggest%20Payment%20Company.pdf)|
 
 ## Performance + Scalability 
-
 | Topic       |      Video     |  Presentation |
 | ------------- |:-------------:| -----: |
 |P2P Docker Image Distribution in Hybrid Cloud Environment with Kraken - Yiran Wang & Cody Gibb, Uber|[Video](https://www.youtube.com/watch?v=waVtYYSXkXU&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=37&t=0s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/f0/Kraken%20KubeCon%20Talk.pdf)|
@@ -383,6 +382,15 @@ KubeCon EU'19 Videos and Presentations
 |Accelerating the Journey of an AI Algorithm to Production with OpenFaaS - Joost Noppen & Alex Ellis|[Video](https://www.youtube.com/watch?v=y77HlN2Fa-w)|-|
 |FaaS is Not Only the Serverless: Stream Processing with Serverless - Jun Makishi & Kensaku Komatsu|[Video](https://www.youtube.com/watch?v=-f88Kp_wjxo)|-|
 |The Serverless Landscape and Event Driven Futures - Dee Kumar, CNCF|[Video](https://www.youtube.com/watch?v=feo-UUPyzSI)|-|
+|Edgility - 5G Orchestration in Serverless-Edge Cloud-Native Environments - Eden Pierre Rozin, AT&T|[Video](https://www.youtube.com/watch?v=NHNhGgcGbLw)|-|
+|Surviving Serverless Battle By Secure Runtime, CRI and RuntimeClass - Xiaoyu Zhang & Lei Zhang|[Video](https://www.youtube.com/watch?v=2_je65FCltk)|-|
+|Birds of a Feather: Do You Really Need on Premises Serverless ? - Igor Khapov, IBM|[Video](https://www.youtube.com/watch?v=C-anYJMlE5k)|[Slides](https://static.sched.com/hosted_files/kccnceu19/57/KubeCon-Europe-2019-ppt-3.pdf)|
+|Ouch! What I Learned From Being Hit by a Serverless, Ruby Boomerang! - Ewan Slater, Oracle|[Video](https://www.youtube.com/watch?v=qRI4cE2JefQ)|[Slides](https://static.sched.com/hosted_files/kccnceu19/38/Serverless_Ruby_Boomerang_23-05-19.pdf)|
+|Managing Edge Computing with Serverless - Lev Radomislensky, Iguazio|[Video](https://www.youtube.com/watch?v=S7W5Vgcpi2s)|-|
+|How LivePerson is Tailoring its Conversational Platform Using OpenFaaS - Simon Pelczer|[Video](https://www.youtube.com/watch?v=bt06Z28uzPA)|-|
+|Serverless Operations: From Dev to Production - Erwin van Eyk, Platform9|[Video](https://www.youtube.com/watch?v=5ftE6LBdkGY)|[Slides]()|
+|Istio on Knative Lessons Learned: How Istio is Fit for Serverless Platform - Ying Chun Guo|[Video](https://www.youtube.com/watch?v=DN7chnOM0g0)|-|
+|Delivering Serverless Experience on Kubernetes: Beyond Web Applications - Alex Glikson|[Video](https://www.youtube.com/watch?v=VCGlGlBdr-o)|-|
 
 ## MORE TOPICs 
 | Topic       |      Video     |  Presentation |
@@ -425,18 +433,9 @@ KubeCon EU'19 Videos and Presentations
 |2 Years of TGIKubernetes - Kris Nova & Joe Beda, VMware|[Video](https://www.youtube.com/watch?v=e_eFnC6qp1Q)|-|
 |Merging Quickly in a Cloud Native World - Lucas Roesler, Contiamo|[Video](https://www.youtube.com/watch?v=d0E7PSlkBbs)|-|
 |Navigating the Cloud Native Community for End Users - Cheryl Hung, CNCF|[Video](https://www.youtube.com/watch?v=6HVxJ_65L2c)|-|
-|Birds of a Feather: Do You Really Need on Premises Serverless ? - Igor Khapov, IBM|[Video](https://www.youtube.com/watch?v=C-anYJMlE5k)|-|
-|Surviving Serverless Battle By Secure Runtime, CRI and RuntimeClass - Xiaoyu Zhang & Lei Zhang|[Video](https://www.youtube.com/watch?v=2_je65FCltk)|-|
-|Edgility - 5G Orchestration in Serverless-Edge Cloud-Native Environments - Eden Pierre Rozin, AT&T|[Video](https://www.youtube.com/watch?v=NHNhGgcGbLw)|-|
 |Network Machinery: A United-Front for Network Troubleshooting with CRDs - Adel Zaalouk, SAP|[Video](https://www.youtube.com/watch?v=JsJoRkmzoa0)|-|
-|Serverless Operations: From Dev to Production - Erwin van Eyk, Platform9|[Video](https://www.youtube.com/watch?v=5ftE6LBdkGY)|-|
 |5 Simple Steps To Simplifying Your Compliance Journey With a Service Mesh – Granville Schmidt|[Video](https://www.youtube.com/watch?v=BGqWrdfZEMM)|-|
 |How Does Google Release Kubernetes in GKE - Kobi Magnezi & Josh Hoak, Google|[Video](https://www.youtube.com/watch?v=6D5JMFqlov4)|-|
-|Istio on Knative Lessons Learned: How Istio is Fit for Serverless Platform - Ying Chun Guo|[Video](https://www.youtube.com/watch?v=DN7chnOM0g0)|-|
-|Delivering Serverless Experience on Kubernetes: Beyond Web Applications - Alex Glikson|[Video](https://www.youtube.com/watch?v=VCGlGlBdr-o)|-|
-|How LivePerson is Tailoring its Conversational Platform Using OpenFaaS - Simon Pelczer|[Video](https://www.youtube.com/watch?v=bt06Z28uzPA)|-|
-|Managing Edge Computing with Serverless - Lev Radomislensky, Iguazio|[Video](https://www.youtube.com/watch?v=S7W5Vgcpi2s)|-|
-|Ouch! What I Learned From Being Hit by a Serverless, Ruby Boomerang! - Ewan Slater, Oracle|[Video](https://www.youtube.com/watch?v=qRI4cE2JefQ)|-|
 |Democratizing MySQL: From Cloud Managed to Kubernetes Managed - Sachin Manpathak|[Video](https://www.youtube.com/watch?v=T9NY0Iy-jOo)|-|
 |Embracing Upstream Kubernetes in Web Scale Organization - Lei Zhang & Jun Chen|[Video](https://www.youtube.com/watch?v=ptOLV2wjQUw)|-|
 |Panel Discussion: Going Multi-Cloud for Realz. Stories From Media, Retail, & Infrastructure|[Video](https://www.youtube.com/watch?v=JQoC1FtmKds)|-|
