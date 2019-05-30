@@ -392,7 +392,7 @@ KubeCon EU'19 Videos and Presentations
 |Istio on Knative Lessons Learned: How Istio is Fit for Serverless Platform - Ying Chun Guo|[Video](https://www.youtube.com/watch?v=DN7chnOM0g0)|[Slides](https://static.sched.com/hosted_files/kccnceu19/5f/Knative-on-Istio.pdf)|
 |Delivering Serverless Experience on Kubernetes: Beyond Web Applications - Alex Glikson|[Video](https://www.youtube.com/watch?v=VCGlGlBdr-o)|[Slides](https://static.sched.com/hosted_files/kccnceu19/f7/SCP%20Beyond%20-%20KubeCon19%20v1.pdf)|
 
-## MORE TOPICs 
+## More Topics 
 | Topic       |      Video     |  Presentation |
 | ------------- |:-------------:| -----: |
 |Public Technical Oversight Committee (TOC) Meeting - Moderated by Chris Aniszczyk, CNCF|[Video](https://www.youtube.com/watch?v=YdwX-DAlGGY)|-|
