@@ -335,8 +335,18 @@ KubeCon EU'19 Videos and Presentations
 |Latest Kubernetes Scalability Improvements - Shyam Jeedigunta, Amazon & Yassine Tijani, VMware|[Video](https://www.youtube.com/watch?v=CpD_ttrXqfs)|[Slides](https://static.sched.com/hosted_files/kccnceu19/76/Latest%20Kubernetes%20Scalability%20Improvements.pdf)|
 |Kubernetes Networking at Scale - Laurent Bernaille, Datadog & Bowei Du, Google|[Video](https://www.youtube.com/watch?v=MvoImel5qfc)|[Slides](https://static.sched.com/hosted_files/kccnceu19/22/KubeCon-Europe-2019-Kubernetes%20Networking%20at%20scale.pdf)|
 
-## Storage 
 
+## Runtimes
+| Topic       |      Video     |  Presentation |
+| ------------- |:-------------:| -----: |
+|Tailor-Made Security: Building a Kubernetes Specific Hypervisor - Samuel Ortiz & Andreea Florescu|[Video](https://www.youtube.com/watch?v=t41Bh_sIVDQ)|[Slides](https://static.sched.com/hosted_files/kccnceu19/fb/Tailor-made%20Security_%20%20Building%20a%20Kubernetes%20specific%20hypervisor.pdf)|
+|Lessons Learned Migrating Kubernetes from Docker to containerd Runtime - Ana Calin, Paybase|[Video](https://www.youtube.com/watch?v=uDOu6rK4yOk)|[Slides](https://static.sched.com/hosted_files/kccnceu19/99/KubeCon%20Pres%20-%20Ana%20Calin%20%281%29.pdf)|
+|Let's Try Every CRI Runtime Available for Kubernetes. No, Really! - Phil Estes, IBM|[Video](https://www.youtube.com/watch?v=FKoVztEQHss)|[Slides](https://static.sched.com/hosted_files/kccnceu19/33/All%20The%20CRI%20Runtimes.pdf)|
+|Reenforce Kubernetes Image Isolation in Multi-Tenant Service - Eric Lin, Alibaba|[Video](https://www.youtube.com/watch?v=s0L2jej28k4)|[Slides](https://static.sched.com/hosted_files/kccnceu19/48/Reenforce%20Kubernetes%20image%20isolation%20in%20multi-tenant%20service.pdf)|
+|Kubernetes Networking: How to Write a CNI Plugin From Scratch - Eran Yanay, Twistlock|[Video](https://www.youtube.com/watch?v=zmYxdtFzK6s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/31/CNI%20-%20Kubecon%20Barcelona.pdf)|
+
+
+## Storage 
 | Topic       |      Video     |  Presentation |
 | ------------- |:-------------:| -----: |
 |Data Without Borders - Using Rook Storage Orchestration at a Global Scale - Jared Watts, Upbound|[Video](https://www.youtube.com/watch?v=BUOIZawnIlk)|[Slides](https://static.sched.com/hosted_files/kccnceu19/41/Data%20Without%20Borders%20-%20Using%20Rook%20Storage%20Orchestration%20at%20a%20Global%20Scale.pdf)|
@@ -345,7 +355,7 @@ KubeCon EU'19 Videos and Presentations
 |Large Synoptic Survey Telescope: From Cloud Native to Dark Energy - Fabrice Jammes|[Video](https://www.youtube.com/watch?v=YC_nIGbI8Hk)|[Slides](https://static.sched.com/hosted_files/kccnceu19/db/1_Kubecon-LSST.pdf)|
 |Improving Availability for Stateful Applications in Kubernetes - Michelle Au, Google|[Video](https://www.youtube.com/watch?v=Cd7aJiQLIpM)|[Slides](https://static.sched.com/hosted_files/kccnceu19/90/KubeCon-Europe-2019-Improving-Availability-Stateful-Apps%20%281%29.pdf)|
 |Rook, Ceph, and ARM: A Caffeinated Tutorial - Federico Lucifredi & Sébastien Han, Red Hat|[Video](https://www.youtube.com/watch?v=pNz0UyaqlE8)|[Slides]|
-
+|Building a Controller Manager for Your Cloud Platform - Fabio Rapposelli, VMware & Chris Hoge|[Video](https://www.youtube.com/watch?v=kO7qJKPgxS0)|[Slides](https://static.sched.com/hosted_files/kccnceu19/d6/Kubecon%20EU%202019%20-%20Building%20a%20Controller%20Manager%20for%20Your%20Cloud%20Platform.pdf)|
 
 ## MORE TOPICs 
 
@@ -431,12 +441,6 @@ KubeCon EU'19 Videos and Presentations
 |How to Create Kubernetes Experts - Clarke Vennerbeck & Aaron Teague, Supergiant|[Video](https://www.youtube.com/watch?v=n6VPBUIkgqo)|-|
 |State of Kubernetes Contributor Community - Paris Pittman, Google|[Video](https://www.youtube.com/watch?v=a17FLjVDUOc)|-|
 |Unblocking the Release Train with Istio Traffic Management - Dave Shepherd & Pierre Meunier|[Video](https://www.youtube.com/watch?v=jJdhec4Yufo)|-|
-|Kubernetes Networking: How to Write a CNI Plugin From Scratch - Eran Yanay, Twistlock|[Video](https://www.youtube.com/watch?v=zmYxdtFzK6s)|-|
-|Reenforce Kubernetes Image Isolation in Multi-Tenant Service - Eric Lin, Alibaba|[Video](https://www.youtube.com/watch?v=s0L2jej28k4)|-|
-|Building a Controller Manager for Your Cloud Platform - Fabio Rapposelli, VMware & Chris Hoge|[Video](https://www.youtube.com/watch?v=kO7qJKPgxS0)|-|
-|Let's Try Every CRI Runtime Available for Kubernetes. No, Really! - Phil Estes, IBM|[Video](https://www.youtube.com/watch?v=FKoVztEQHss)|-|
-|Lessons Learned Migrating Kubernetes from Docker to containerd Runtime - Ana Calin, Paybase|[Video](https://www.youtube.com/watch?v=uDOu6rK4yOk)|-|
-|Tailor-Made Security: Building a Kubernetes Specific Hypervisor - Samuel Ortiz & Andreea Florescu|[Video](https://www.youtube.com/watch?v=t41Bh_sIVDQ)|-|
 |Economics and Best Practices of Running AI/ML Workloads on Kubernetes - Maulin Patel|[Video](https://www.youtube.com/watch?v=qO5j86qMcck)|-|
 |Moving People and Products with Machine Learning on Kubeflow - Jeremy Lewi, Google & Willem Pienaar|[Video](https://www.youtube.com/watch?v=-GYiatVNemY)|-|
 |A Tale of Two Worlds: Canary-Testing for Both ML Models and Microservices - Jörg Schad|[Video](https://www.youtube.com/watch?v=ctATGBxDzRg)|-|
