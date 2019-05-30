@@ -335,6 +335,16 @@ KubeCon EU'19 Videos and Presentations
 |Latest Kubernetes Scalability Improvements - Shyam Jeedigunta, Amazon & Yassine Tijani, VMware|[Video](https://www.youtube.com/watch?v=CpD_ttrXqfs)|[Slides](https://static.sched.com/hosted_files/kccnceu19/76/Latest%20Kubernetes%20Scalability%20Improvements.pdf)|
 |Kubernetes Networking at Scale - Laurent Bernaille, Datadog & Bowei Du, Google|[Video](https://www.youtube.com/watch?v=MvoImel5qfc)|[Slides](https://static.sched.com/hosted_files/kccnceu19/22/KubeCon-Europe-2019-Kubernetes%20Networking%20at%20scale.pdf)|
 
+## Storage 
+
+| Topic       |      Video     |  Presentation |
+| ------------- |:-------------:| -----: |
+|Data Without Borders - Using Rook Storage Orchestration at a Global Scale - Jared Watts, Upbound|[Video](https://www.youtube.com/watch?v=BUOIZawnIlk)|[Slides](https://static.sched.com/hosted_files/kccnceu19/41/Data%20Without%20Borders%20-%20Using%20Rook%20Storage%20Orchestration%20at%20a%20Global%20Scale.pdf)|
+|Benchmarking Cloud Native Databases Performance on Kubernetes - Iqbal Farabi & Tara Baskara, GO-JEK|[Video](https://www.youtube.com/watch?v=cz-eHwqtyvU)|[Slides](https://static.sched.com/hosted_files/kccnceu19/22/Benchmarking%20Cloud%20Native%20Database%20Running%20on%20Kubernetes.pdf)|
+|Kubernetes Storage 101 - Jan Šafránek, Red Hat & David Zhu, Google|[Video](https://www.youtube.com/watch?v=_qfSzrPn9Cs)|[Slides](https://static.sched.com/hosted_files/kccnceu19/cf/slides.pdf)|
+|Large Synoptic Survey Telescope: From Cloud Native to Dark Energy - Fabrice Jammes|[Video](https://www.youtube.com/watch?v=YC_nIGbI8Hk)|[Slides](https://static.sched.com/hosted_files/kccnceu19/db/1_Kubecon-LSST.pdf)|
+|Improving Availability for Stateful Applications in Kubernetes - Michelle Au, Google|[Video](https://www.youtube.com/watch?v=Cd7aJiQLIpM)|[Slides](https://static.sched.com/hosted_files/kccnceu19/90/KubeCon-Europe-2019-Improving-Availability-Stateful-Apps%20%281%29.pdf)|
+|Rook, Ceph, and ARM: A Caffeinated Tutorial - Federico Lucifredi & Sébastien Han, Red Hat|[Video](https://www.youtube.com/watch?v=pNz0UyaqlE8)|[Slides]|
 
 
 ## MORE TOPICs 
@@ -370,23 +380,16 @@ KubeCon EU'19 Videos and Presentations
 |Container Forensics: What to Do When Your Cluster is a Cluster - Maya Kaczorowski & Ann Wallace|[Video](https://www.youtube.com/watch?v=MyXROAqO7YI)|-|
 |Zero Trust Service Mesh with Calico, SPIRE, and Envoy - Shaun Crampton & Evan Gilman|[Video](https://www.youtube.com/watch?v=rKOEYoINdOE)|-|
 |Grow with Less Pains - Meshing From Monolith to Microservices - Leo LIang|[Video](https://www.youtube.com/watch?v=sNRpfAZxD-A)|-|
-|Kubernetes Storage 101 - Jan Šafránek, Red Hat & David Zhu, Google|[Video](https://www.youtube.com/watch?v=_qfSzrPn9Cs)|-|
 |Resize Your Pods w/o Disruptions aka How to Have a Cake and Eat a Cake - Karol Gob & Beata Skiba|[Video](https://www.youtube.com/watch?v=58uRFofXUyw)|-|
 |The Data Analytics Platform or How to Make Data Science in a Box Possible - Krzysztof Adamski|[Video](https://www.youtube.com/watch?v=8cE9ppbnDPs)|-|
 |Building Cloud Native GDPR Friendly Systems for Data Collection - Zsolt Homorodi, VTT|[Video](https://www.youtube.com/watch?v=sKaeOApBPsw)|-|
 |Deconstructing Apache Hadoop: A Dialogue About a Cloud-Native Refactor - Anu Engineer & Marton Elek|[Video](https://www.youtube.com/watch?v=-LQDbT_HSfo)|-|
 |Panel Discussion: Democratizing HPC & AI: Startups Scale Up with Cloud Native|[Video](https://www.youtube.com/watch?v=LP0BFtBbOwE)|-|
 |Towards Kubeflow 1.0, Bringing a Cloud Native Platform For ML to Kubernetes - David Aronchick|[Video](https://www.youtube.com/watch?v=7RBD0hXyLW8)|-|
-|Rook, Ceph, and ARM: A Caffeinated Tutorial - Federico Lucifredi & Sébastien Han, Red Hat|[Video](https://www.youtube.com/watch?v=pNz0UyaqlE8)|-|
-|Large Scale Distributed Deep Learning with Kubernetes Operators - Yuan Tang & Yong Tang|[Video](https://www.youtube.com/watch?v=jyLi1cfJeM8)|-|
-|Large Synoptic Survey Telescope: From Cloud Native to Dark Energy - Fabrice Jammes|[Video](https://www.youtube.com/watch?v=YC_nIGbI8Hk)|-|
 |Benefits of a Service Mesh When Integrating Kubernetes with Legacy Services - Stephan Fudeus|[Video](https://www.youtube.com/watch?v=vQ2IktsMlgQ)|-|
-|Benchmarking Cloud Native Databases Performance on Kubernetes - Iqbal Farabi & Tara Baskara, GO-JEK|[Video](https://www.youtube.com/watch?v=cz-eHwqtyvU)|-|
-|Data Without Borders - Using Rook Storage Orchestration at a Global Scale - Jared Watts, Upbound|[Video](https://www.youtube.com/watch?v=BUOIZawnIlk)|-|
 |Securing Cloud Native Communication, From End User to Service - Daniel Bryant & Nic Jackson|[Video](https://www.youtube.com/watch?v=o1MJi54_R4o)|-|
 |Caller ID in Kubernetes - Michael Danese, Google|[Video](https://www.youtube.com/watch?v=A4geWDqKNYw)|-|
 |The Serverless Landscape and Event Driven Futures - Dee Kumar, CNCF|[Video](https://www.youtube.com/watch?v=feo-UUPyzSI)|-|
-|Improving Availability for Stateful Applications in Kubernetes - Michelle Au, Google|[Video](https://www.youtube.com/watch?v=Cd7aJiQLIpM)|-|
 |Create Visually Compelling Developer Experiences for Kubernetes on VS Code - Ivan Towlson|[Video](https://www.youtube.com/watch?v=fOvpMfunD4s)|-|
 |10 Ways to Shoot Yourself in the Foot with Kubernetes, #9 Will Surprise You - Laurent Bernaille|[Video](https://www.youtube.com/watch?v=QKI-JRs2RIE)|-|
 |Lifecycle of a kubectl Command: Harden Kubernetes Setup with Automation - Sanjary Rahman|[Video](https://www.youtube.com/watch?v=vHGnL0vSr4E)|-|
