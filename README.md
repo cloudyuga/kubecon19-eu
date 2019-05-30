@@ -375,8 +375,16 @@ KubeCon EU'19 Videos and Presentations
 |Rook, Ceph, and ARM: A Caffeinated Tutorial - Federico Lucifredi & Sébastien Han, Red Hat|[Video](https://www.youtube.com/watch?v=pNz0UyaqlE8)|[Slides]|
 |Building a Controller Manager for Your Cloud Platform - Fabio Rapposelli, VMware & Chris Hoge|[Video](https://www.youtube.com/watch?v=kO7qJKPgxS0)|[Slides](https://static.sched.com/hosted_files/kccnceu19/d6/Kubecon%20EU%202019%20-%20Building%20a%20Controller%20Manager%20for%20Your%20Cloud%20Platform.pdf)|
 
-## MORE TOPICs 
+## Serverless 
+| Topic       |      Video     |  Presentation |
+| ------------- |:-------------:| -----: |
+|Building an Enterprise-ready Lambda Experience (with Hands-On Demo) - Alexandre González Rodríguez|[Video](https://www.youtube.com/watch?v=rYp97G6aE68&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=92&t=0s)|-|
+|Serverless is Interesting But FaaS is Not Enough - Jonas Bonér, Lightbend Inc.|[Video](https://www.youtube.com/watch?v=J3PyYmdTsnQ&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=70&t=0s)|-|
+|Accelerating the Journey of an AI Algorithm to Production with OpenFaaS - Joost Noppen & Alex Ellis|[Video](https://www.youtube.com/watch?v=y77HlN2Fa-w)|-|
+|FaaS is Not Only the Serverless: Stream Processing with Serverless - Jun Makishi & Kensaku Komatsu|[Video](https://www.youtube.com/watch?v=-f88Kp_wjxo)|-|
+|The Serverless Landscape and Event Driven Futures - Dee Kumar, CNCF|[Video](https://www.youtube.com/watch?v=feo-UUPyzSI)|-|
 
+## MORE TOPICs 
 | Topic       |      Video     |  Presentation |
 | ------------- |:-------------:| -----: |
 |Public Technical Oversight Committee (TOC) Meeting - Moderated by Chris Aniszczyk, CNCF|[Video](https://www.youtube.com/watch?v=YdwX-DAlGGY)|-|
@@ -386,11 +394,9 @@ KubeCon EU'19 Videos and Presentations
 |KEPs: Evolving Kubernetes at the Speed of Trust - Caleb Miles, Google|[Video](https://www.youtube.com/watch?v=9C24CSHHonY&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=46&t=0s)|-|
 |Panel Discussion: From User to Member: Becoming a Kubernetes Contributor|[Video](https://www.youtube.com/watch?v=KRXKULN0QXU&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=47&t=0s)|-|
 |Reproducible Development and Deployment with Bazel and Telepresence - Christian Roggia|[Video](https://www.youtube.com/watch?v=tD0FIlxO1AQ&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=51&t=0s)|-|
-|Serverless is Interesting But FaaS is Not Enough - Jonas Bonér, Lightbend Inc.|[Video](https://www.youtube.com/watch?v=J3PyYmdTsnQ&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=70&t=0s)|-|
 |Writing kubectl Plugins for Everyone: Develop, Package & Distribute - Ahmet Alp Balkan|[Video](https://www.youtube.com/watch?v=83ITOTsXsHU&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=73&t=0s)|-|
 |Tutorial: A Day in the Life of a Cloud Native Developer - Randy Abernethy, RX-M, LLC|[Video](https://www.youtube.com/watch?v=YAM2d7yTrrI&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=88&t=0s)|-|
 |Panel Discussion: Ask Us Anything: Microservices and Service Mesh|[Video](https://www.youtube.com/watch?v=101xw1RN3t4&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=91&t=0s)|-|
-|Building an Enterprise-ready Lambda Experience (with Hands-On Demo) - Alexandre González Rodríguez|[Video](https://www.youtube.com/watch?v=rYp97G6aE68&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=92&t=0s)|-|
 |Mental Health in Tech - Dr. Jennifer Akullian, Growth Coaching Institute|[Video](https://www.youtube.com/watch?v=vImweuVsaIw&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=94&t=0s)|-|
 |The Kubernetes Control Plane for Busy People Who Like Pictures - Daniel Smith, Google|[Video](https://www.youtube.com/watch?v=zCXiXKMqnuE&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=96&t=0s)|-|
 |Kanary - Automated and Integrated Canary Testing Using CRD... - David Benque & Cédric Lamorinière|[Video](https://www.youtube.com/watch?v=mmvSzDEw-JI&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=97&t=0s)|-|
@@ -410,7 +416,6 @@ KubeCon EU'19 Videos and Presentations
 |Towards Kubeflow 1.0, Bringing a Cloud Native Platform For ML to Kubernetes - David Aronchick|[Video](https://www.youtube.com/watch?v=7RBD0hXyLW8)|-|
 |Benefits of a Service Mesh When Integrating Kubernetes with Legacy Services - Stephan Fudeus|[Video](https://www.youtube.com/watch?v=vQ2IktsMlgQ)|-|
 |Securing Cloud Native Communication, From End User to Service - Daniel Bryant & Nic Jackson|[Video](https://www.youtube.com/watch?v=o1MJi54_R4o)|-|
-|The Serverless Landscape and Event Driven Futures - Dee Kumar, CNCF|[Video](https://www.youtube.com/watch?v=feo-UUPyzSI)|-|
 |Create Visually Compelling Developer Experiences for Kubernetes on VS Code - Ivan Towlson|[Video](https://www.youtube.com/watch?v=fOvpMfunD4s)|-|
 |10 Ways to Shoot Yourself in the Foot with Kubernetes, #9 Will Surprise You - Laurent Bernaille|[Video](https://www.youtube.com/watch?v=QKI-JRs2RIE)|-|
 |Lifecycle of a kubectl Command: Harden Kubernetes Setup with Automation - Sanjary Rahman|[Video](https://www.youtube.com/watch?v=vHGnL0vSr4E)|-|
@@ -423,8 +428,6 @@ KubeCon EU'19 Videos and Presentations
 |Birds of a Feather: Do You Really Need on Premises Serverless ? - Igor Khapov, IBM|[Video](https://www.youtube.com/watch?v=C-anYJMlE5k)|-|
 |Surviving Serverless Battle By Secure Runtime, CRI and RuntimeClass - Xiaoyu Zhang & Lei Zhang|[Video](https://www.youtube.com/watch?v=2_je65FCltk)|-|
 |Edgility - 5G Orchestration in Serverless-Edge Cloud-Native Environments - Eden Pierre Rozin, AT&T|[Video](https://www.youtube.com/watch?v=NHNhGgcGbLw)|-|
-|FaaS is Not Only the Serverless: Stream Processing with Serverless - Jun Makishi & Kensaku Komatsu|[Video](https://www.youtube.com/watch?v=-f88Kp_wjxo)|-|
-|Accelerating the Journey of an AI Algorithm to Production with OpenFaaS - Joost Noppen & Alex Ellis|[Video](https://www.youtube.com/watch?v=y77HlN2Fa-w)|-|
 |Network Machinery: A United-Front for Network Troubleshooting with CRDs - Adel Zaalouk, SAP|[Video](https://www.youtube.com/watch?v=JsJoRkmzoa0)|-|
 |Serverless Operations: From Dev to Production - Erwin van Eyk, Platform9|[Video](https://www.youtube.com/watch?v=5ftE6LBdkGY)|-|
 |5 Simple Steps To Simplifying Your Compliance Journey With a Service Mesh – Granville Schmidt|[Video](https://www.youtube.com/watch?v=BGqWrdfZEMM)|-|
