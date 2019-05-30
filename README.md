@@ -377,20 +377,20 @@ KubeCon EU'19 Videos and Presentations
 ## Serverless 
 | Topic       |      Video     |  Presentation |
 | ------------- |:-------------:| -----: |
-|Building an Enterprise-ready Lambda Experience (with Hands-On Demo) - Alexandre González Rodríguez|[Video](https://www.youtube.com/watch?v=rYp97G6aE68&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=92&t=0s)|-|
-|Serverless is Interesting But FaaS is Not Enough - Jonas Bonér, Lightbend Inc.|[Video](https://www.youtube.com/watch?v=J3PyYmdTsnQ&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=70&t=0s)|-|
-|Accelerating the Journey of an AI Algorithm to Production with OpenFaaS - Joost Noppen & Alex Ellis|[Video](https://www.youtube.com/watch?v=y77HlN2Fa-w)|-|
-|FaaS is Not Only the Serverless: Stream Processing with Serverless - Jun Makishi & Kensaku Komatsu|[Video](https://www.youtube.com/watch?v=-f88Kp_wjxo)|-|
+|Building an Enterprise-ready Lambda Experience (with Hands-On Demo) - Alexandre González Rodríguez|[Video](https://www.youtube.com/watch?v=rYp97G6aE68&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=92&t=0s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/e5/Building%20an%20Enterprise-ready%20Lambda%20Experience.pdf)|
+|Serverless is Interesting But FaaS is Not Enough - Jonas Bonér, Lightbend Inc.|[Video](https://www.youtube.com/watch?v=J3PyYmdTsnQ&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=70&t=0s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/0a/Towards%20Stateful%20Serverless.pdf)|
+|Accelerating the Journey of an AI Algorithm to Production with OpenFaaS - Joost Noppen & Alex Ellis|[Video](https://www.youtube.com/watch?v=y77HlN2Fa-w)|[Slides](https://static.sched.com/hosted_files/kccnceu19/0b/Joost_Noppen_Alex_Ellis_Kubecon_2019.pdf)|
+|FaaS is Not Only the Serverless: Stream Processing with Serverless - Jun Makishi & Kensaku Komatsu|[Video](https://www.youtube.com/watch?v=-f88Kp_wjxo)|[Slides](https://static.sched.com/hosted_files/kccnceu19/84/Serverless.pdf)|
 |The Serverless Landscape and Event Driven Futures - Dee Kumar, CNCF|[Video](https://www.youtube.com/watch?v=feo-UUPyzSI)|-|
-|Edgility - 5G Orchestration in Serverless-Edge Cloud-Native Environments - Eden Pierre Rozin, AT&T|[Video](https://www.youtube.com/watch?v=NHNhGgcGbLw)|-|
-|Surviving Serverless Battle By Secure Runtime, CRI and RuntimeClass - Xiaoyu Zhang & Lei Zhang|[Video](https://www.youtube.com/watch?v=2_je65FCltk)|-|
+|Edgility - 5G Orchestration in Serverless-Edge Cloud-Native Environments - Eden Pierre Rozin, AT&T|[Video](https://www.youtube.com/watch?v=NHNhGgcGbLw)|[Slides](https://static.sched.com/hosted_files/kccnceu19/d8/CNCF_EU19_PPT_Eden_Rozin_Final_21.05.pdf)|
+|Surviving Serverless Battle By Secure Runtime, CRI and RuntimeClass - Xiaoyu Zhang & Lei Zhang|[Video](https://www.youtube.com/watch?v=2_je65FCltk)|[Slides](https://static.sched.com/hosted_files/kccnceu19/81/Surviving%20Serverless%20Battle%20By%20Secure%20Runtime%2C%20CRI%20and%20RuntimeClass.pdf)|
 |Birds of a Feather: Do You Really Need on Premises Serverless ? - Igor Khapov, IBM|[Video](https://www.youtube.com/watch?v=C-anYJMlE5k)|[Slides](https://static.sched.com/hosted_files/kccnceu19/57/KubeCon-Europe-2019-ppt-3.pdf)|
 |Ouch! What I Learned From Being Hit by a Serverless, Ruby Boomerang! - Ewan Slater, Oracle|[Video](https://www.youtube.com/watch?v=qRI4cE2JefQ)|[Slides](https://static.sched.com/hosted_files/kccnceu19/38/Serverless_Ruby_Boomerang_23-05-19.pdf)|
-|Managing Edge Computing with Serverless - Lev Radomislensky, Iguazio|[Video](https://www.youtube.com/watch?v=S7W5Vgcpi2s)|-|
-|How LivePerson is Tailoring its Conversational Platform Using OpenFaaS - Simon Pelczer|[Video](https://www.youtube.com/watch?v=bt06Z28uzPA)|-|
-|Serverless Operations: From Dev to Production - Erwin van Eyk, Platform9|[Video](https://www.youtube.com/watch?v=5ftE6LBdkGY)|[Slides]()|
-|Istio on Knative Lessons Learned: How Istio is Fit for Serverless Platform - Ying Chun Guo|[Video](https://www.youtube.com/watch?v=DN7chnOM0g0)|-|
-|Delivering Serverless Experience on Kubernetes: Beyond Web Applications - Alex Glikson|[Video](https://www.youtube.com/watch?v=VCGlGlBdr-o)|-|
+|Managing Edge Computing with Serverless - Lev Radomislensky, Iguazio|[Video](https://www.youtube.com/watch?v=S7W5Vgcpi2s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/ab/Managing%20Edge%20Computing%20with%20Serverless.pdf)|
+|How LivePerson is Tailoring its Conversational Platform Using OpenFaaS - Simon Pelczer|[Video](https://www.youtube.com/watch?v=bt06Z28uzPA)|[Slides](https://static.sched.com/hosted_files/kccnceu19/e1/How_LivePerson_is_tailoring_its_Conversational_Platform_using_OpenFaaS_Final.pdf)|
+|Serverless Operations: From Dev to Production - Erwin van Eyk, Platform9|[Video](https://www.youtube.com/watch?v=5ftE6LBdkGY)|[Slides](https://static.sched.com/hosted_files/kccnceu19/b8/KubeCon%202019%20EU%20-%20Serverless%20Dev%20to%20Prod.pdf)|
+|Istio on Knative Lessons Learned: How Istio is Fit for Serverless Platform - Ying Chun Guo|[Video](https://www.youtube.com/watch?v=DN7chnOM0g0)|[Slides](https://static.sched.com/hosted_files/kccnceu19/5f/Knative-on-Istio.pdf)|
+|Delivering Serverless Experience on Kubernetes: Beyond Web Applications - Alex Glikson|[Video](https://www.youtube.com/watch?v=VCGlGlBdr-o)|[Slides](https://static.sched.com/hosted_files/kccnceu19/f7/SCP%20Beyond%20-%20KubeCon19%20v1.pdf)|
 
 ## MORE TOPICs 
 | Topic       |      Video     |  Presentation |
