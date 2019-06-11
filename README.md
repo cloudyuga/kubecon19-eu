@@ -392,20 +392,35 @@ KubeCon EU'19 Videos and Presentations
 |Istio on Knative Lessons Learned: How Istio is Fit for Serverless Platform - Ying Chun Guo|[Video](https://www.youtube.com/watch?v=DN7chnOM0g0)|[Slides](https://static.sched.com/hosted_files/kccnceu19/5f/Knative-on-Istio.pdf)|
 |Delivering Serverless Experience on Kubernetes: Beyond Web Applications - Alex Glikson|[Video](https://www.youtube.com/watch?v=VCGlGlBdr-o)|[Slides](https://static.sched.com/hosted_files/kccnceu19/f7/SCP%20Beyond%20-%20KubeCon19%20v1.pdf)|
 
+## Community 
+| Topic       |      Video     |  Presentation |
+| ------------- |:-------------:| -----: |
+|Mental Health in Tech - Dr. Jennifer Akullian, Growth Coaching Institute|[Video](https://www.youtube.com/watch?v=vImweuVsaIw&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=94&t=0s)|[SLides](https://static.sched.com/hosted_files/kccnceu19/48/Kubecon_Akullian.pdf)|
+|Panel Discussion: From User to Member: Becoming a Kubernetes Contributor|[Video](https://www.youtube.com/watch?v=KRXKULN0QXU&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=47&t=0s)|[Slides]|
+|KEPs: Evolving Kubernetes at the Speed of Trust - Caleb Miles, Google|[Video](https://www.youtube.com/watch?v=9C24CSHHonY&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=46&t=0s)|[Slides](https://static.sched.com/hosted_files/kccnceu19/06/KEPs_%20Evolving%20Kubernetes%20at%20the%20Speed%20of%20Trust.pdf)|
+|Navigating the Cloud Native Community for End Users - Cheryl Hung, CNCF|[Video](https://www.youtube.com/watch?v=6HVxJ_65L2c)|[Slides](https://static.sched.com/hosted_files/kccnceu19/18/2019-05-22-navigating-cloud-native-kccnceu.pdf)|
+|Merging Quickly in a Cloud Native World - Lucas Roesler, Contiamo|[Video](https://www.youtube.com/watch?v=d0E7PSlkBbs)|[Slides](https://static.sched.com/hosted_files/kccnceu19/e2/merging-quickly.pdf)|
+|5 Steps to Building Inclusive Communities - Ashlynn Polini, Docker|[Video](https://www.youtube.com/watch?v=7oxCqBXvJEU)|[Slides|
+|2 Years of TGIKubernetes - Kris Nova & Joe Beda, VMware|[Video](https://www.youtube.com/watch?v=e_eFnC6qp1Q)|[Slides]|
+|The Spotify Story: Moving from NIH to an Active CNCF Community Member - Jim Haughwout, Spotify|[Video](https://www.youtube.com/watch?v=OWq0X7OSCBQ)|[Slides](https://static.sched.com/hosted_files/kccnceu19/3a/The%20Spotify%20Story_%20Moving%20from%20NIH%20to%20an%20Active%20Community%20Member%20-%20Jim%20Haughwout%2C%20KubeCon%20Talk%202019.pptx)|
+|A Kubernetes Application End-to-End: DevStats - ukasz Gryglicki, CNCF & Josh Berkus, Red Hat|[Video](https://www.youtube.com/watch?v=U2PTifzzKNE)|[Slides](https://static.sched.com/hosted_files/kccnceu19/bc/devstats-end-to-end3.pdf)|
+|State of Kubernetes Contributor Community - Paris Pittman, Google|[Video](https://www.youtube.com/watch?v=a17FLjVDUOc)|[Slides]|
+|How to Create Kubernetes Experts - Clarke Vennerbeck & Aaron Teague, Supergiant|[Video](https://www.youtube.com/watch?v=n6VPBUIkgqo)|[Slides](https://static.sched.com/hosted_files/kccnceu19/d6/How-to-Create-Kubernetes-Experts.pptx)|
+|Public Technical Oversight Committee (TOC) Meeting - Moderated by Chris Aniszczyk, CNCF|[Video](https://www.youtube.com/watch?v=YdwX-DAlGGY)|[Slides](https://static.sched.com/hosted_files/kccnceu19/48/Kubecon_Akullian.pdf)|
+|Oops!...I Did It Again — I Reinvented gRPC - Austin Lamon & Dave Zolotusky, Spotify|[Video](https://www.youtube.com/watch?v=7VFYGYAYz7k)|[Slides](https://static.sched.com/hosted_files/kccnceu19/63/gRPC%20Talk%20-%20Kubecon%20Barcelona%202019.pdf)|
+|What Goes in a Release: Kubernetes 1.14 in Code, Conversations, and Hearts - Maria Ntalla, Pivotal|[Video](https://www.youtube.com/watch?v=-VA3POM37Y0)|[Slides](https://static.sched.com/hosted_files/kccnceu19/dd/What_goes_in_a_release.pdf)|
+|Panel Discussion: Care and Feeding: Burnout and Self Care in our Community - Aaron Crickenberger|[Video](https://www.youtube.com/watch?v=jzzfGNFuwwE)|[Slides]|
+
 ## More Topics 
 | Topic       |      Video     |  Presentation |
 | ------------- |:-------------:| -----: |
-|Public Technical Oversight Committee (TOC) Meeting - Moderated by Chris Aniszczyk, CNCF|[Video](https://www.youtube.com/watch?v=YdwX-DAlGGY)|-|
 |Ready? A Deep Dive into Pod Readiness Gates for Service Health... - Minhan Xia & Ping Zou|[Video](https://www.youtube.com/watch?v=Vw9GmSeomFg)|-|
 |Extending Envoy with WebAssembly - John Plevyak & Dhi Aurrahman, Tetrate|[Video](https://www.youtube.com/watch?v=XdWmm_mtVXI&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=81&t=0s)|-|
 |Kubernetes the New Research Platform - Lindsey Tulloch & Bob Killen|[Video](https://www.youtube.com/watch?v=E09XTOWbBKw&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=40&t=0s)|-|
-|KEPs: Evolving Kubernetes at the Speed of Trust - Caleb Miles, Google|[Video](https://www.youtube.com/watch?v=9C24CSHHonY&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=46&t=0s)|-|
-|Panel Discussion: From User to Member: Becoming a Kubernetes Contributor|[Video](https://www.youtube.com/watch?v=KRXKULN0QXU&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=47&t=0s)|-|
 |Reproducible Development and Deployment with Bazel and Telepresence - Christian Roggia|[Video](https://www.youtube.com/watch?v=tD0FIlxO1AQ&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=51&t=0s)|-|
 |Writing kubectl Plugins for Everyone: Develop, Package & Distribute - Ahmet Alp Balkan|[Video](https://www.youtube.com/watch?v=83ITOTsXsHU&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=73&t=0s)|-|
 |Tutorial: A Day in the Life of a Cloud Native Developer - Randy Abernethy, RX-M, LLC|[Video](https://www.youtube.com/watch?v=YAM2d7yTrrI&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=88&t=0s)|-|
 |Panel Discussion: Ask Us Anything: Microservices and Service Mesh|[Video](https://www.youtube.com/watch?v=101xw1RN3t4&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=91&t=0s)|-|
-|Mental Health in Tech - Dr. Jennifer Akullian, Growth Coaching Institute|[Video](https://www.youtube.com/watch?v=vImweuVsaIw&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=94&t=0s)|-|
 |The Kubernetes Control Plane for Busy People Who Like Pictures - Daniel Smith, Google|[Video](https://www.youtube.com/watch?v=zCXiXKMqnuE&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=96&t=0s)|-|
 |Kanary - Automated and Integrated Canary Testing Using CRD... - David Benque & Cédric Lamorinière|[Video](https://www.youtube.com/watch?v=mmvSzDEw-JI&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=97&t=0s)|-|
 |Kubernetes Security and How to Fix K8s Cluster at Scale - Simon Pearce & Sebastian Scheele|[Video](https://www.youtube.com/watch?v=5dWRh301Lno&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=99&t=0s)|-|
@@ -427,12 +442,6 @@ KubeCon EU'19 Videos and Presentations
 |Create Visually Compelling Developer Experiences for Kubernetes on VS Code - Ivan Towlson|[Video](https://www.youtube.com/watch?v=fOvpMfunD4s)|-|
 |10 Ways to Shoot Yourself in the Foot with Kubernetes, #9 Will Surprise You - Laurent Bernaille|[Video](https://www.youtube.com/watch?v=QKI-JRs2RIE)|-|
 |Lifecycle of a kubectl Command: Harden Kubernetes Setup with Automation - Sanjary Rahman|[Video](https://www.youtube.com/watch?v=vHGnL0vSr4E)|-|
-|The Spotify Story: Moving from NIH to an Active CNCF Community Member - Jim Haughwout, Spotify|[Video](https://www.youtube.com/watch?v=OWq0X7OSCBQ)|-|
-|A Kubernetes Application End-to-End: DevStats - ukasz Gryglicki, CNCF & Josh Berkus, Red Hat|[Video](https://www.youtube.com/watch?v=U2PTifzzKNE)|-|
-|5 Steps to Building Inclusive Communities - Ashlynn Polini, Docker|[Video](https://www.youtube.com/watch?v=7oxCqBXvJEU)|-|
-|2 Years of TGIKubernetes - Kris Nova & Joe Beda, VMware|[Video](https://www.youtube.com/watch?v=e_eFnC6qp1Q)|-|
-|Merging Quickly in a Cloud Native World - Lucas Roesler, Contiamo|[Video](https://www.youtube.com/watch?v=d0E7PSlkBbs)|-|
-|Navigating the Cloud Native Community for End Users - Cheryl Hung, CNCF|[Video](https://www.youtube.com/watch?v=6HVxJ_65L2c)|-|
 |Network Machinery: A United-Front for Network Troubleshooting with CRDs - Adel Zaalouk, SAP|[Video](https://www.youtube.com/watch?v=JsJoRkmzoa0)|-|
 |5 Simple Steps To Simplifying Your Compliance Journey With a Service Mesh – Granville Schmidt|[Video](https://www.youtube.com/watch?v=BGqWrdfZEMM)|-|
 |How Does Google Release Kubernetes in GKE - Kobi Magnezi & Josh Hoak, Google|[Video](https://www.youtube.com/watch?v=6D5JMFqlov4)|-|
@@ -441,11 +450,6 @@ KubeCon EU'19 Videos and Presentations
 |Panel Discussion: Going Multi-Cloud for Realz. Stories From Media, Retail, & Infrastructure|[Video](https://www.youtube.com/watch?v=JQoC1FtmKds)|-|
 |Scaling Edge Operations at Onefootball with Ambassador: From 0 to 6000 rps - Jonathan Juares Beber|[Video](https://www.youtube.com/watch?v=07RvO4AChHE)|-|
 |Running Kubernetes on Ephemeral Infrastructure - Greg DeArment & Vlad Ungureanu|[Video](https://www.youtube.com/watch?v=7zUsc2zI5o8)|-|
-|Panel Discussion: Care and Feeding: Burnout and Self Care in our Community - Aaron Crickenberger|[Video](https://www.youtube.com/watch?v=jzzfGNFuwwE)|-|
-|What Goes in a Release: Kubernetes 1.14 in Code, Conversations, and Hearts - Maria Ntalla, Pivotal|[Video](https://www.youtube.com/watch?v=-VA3POM37Y0)|-|
-|Oops!...I Did It Again — I Reinvented gRPC - Austin Lamon & Dave Zolotusky, Spotify|[Video](https://www.youtube.com/watch?v=7VFYGYAYz7k)|-|
-|How to Create Kubernetes Experts - Clarke Vennerbeck & Aaron Teague, Supergiant|[Video](https://www.youtube.com/watch?v=n6VPBUIkgqo)|-|
-|State of Kubernetes Contributor Community - Paris Pittman, Google|[Video](https://www.youtube.com/watch?v=a17FLjVDUOc)|-|
 |Unblocking the Release Train with Istio Traffic Management - Dave Shepherd & Pierre Meunier|[Video](https://www.youtube.com/watch?v=jJdhec4Yufo)|-|
 |Economics and Best Practices of Running AI/ML Workloads on Kubernetes - Maulin Patel|[Video](https://www.youtube.com/watch?v=qO5j86qMcck)|-|
 |Moving People and Products with Machine Learning on Kubeflow - Jeremy Lewi, Google & Willem Pienaar|[Video](https://www.youtube.com/watch?v=-GYiatVNemY)|-|
